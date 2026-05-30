@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv/
+venv/
+
+# PyCharm
+.idea/
+*.iml
+
+# Databricks / checkpoints
+.ipynb_checkpoints/
+.dbc
+*.dbc
+
+# Secrets
+*.key
+*.pem
+*.pfx
+*.crt
+secrets.json
+credentials.json
+.env.*
+
+# Azure / local config
+.azure/
+.local/
+
+# Power BI
+*.pbix
+*.pbit
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
