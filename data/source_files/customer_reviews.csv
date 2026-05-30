@@ -1,0 +1,702 @@
+ReviewID,OrderID,CustomerID,ProductID,ReviewDate,Rating,ReviewText,RecommendationFlag
+REV000001,ORD000583,CUST000110,P0047,2026-05-09,2,Poor quality and the item arrived damaged.,False
+REV000002,ORD000749,CUST000457,P0084,2026-05-04,5,Perfect fit and very useful for training.,True
+REV000003,ORD000656,CUST000370,P0085,2026-05-13,5,"Great product, good packaging, and smooth ordering experience.",True
+REV000004,ORD000668,CUST000131,P0037,2026-05-29,3,"Good product, but the size guide was confusing.",True
+REV000005,ORD000847,CUST000094,P0023,2026-05-26,2,Payment failed twice and the order process was frustrating.,False
+REV000006,ORD000886,CUST000124,P0006,2026-05-21,3,"Good product, but the size guide was confusing.",True
+REV000007,ORD000993,CUST000436,P0052,2026-05-02,5,The product quality is better than expected.,True
+REV000008,ORD000567,CUST000372,P0034,2026-05-02,3,"Good product, but the size guide was confusing.",True
+REV000009,ORD000739,CUST000277,P0009,2026-05-01,4,Perfect fit and very useful for training.,True
+REV000010,ORD000884,CUST000313,P0088,2026-05-13,5,Very comfortable and worth the price. I will buy again.,True
+REV000011,ORD000275,CUST000359,P0052,2026-05-14,4,Perfect fit and very useful for training.,True
+REV000012,ORD000827,CUST000017,P0098,2026-05-22,3,"Good product, but the size guide was confusing.",True
+REV000013,ORD001003,CUST000039,P0073,2026-05-02,4,Very comfortable and worth the price. I will buy again.,True
+REV000014,ORD001079,CUST000297,P0075,2026-05-04,2,The product is not worth the price.,False
+REV000015,ORD001136,CUST000317,P0029,2026-05-10,4,Very comfortable and worth the price. I will buy again.,True
+REV000016,ORD000266,CUST000123,P0068,2026-05-07,4,"Great product, good packaging, and smooth ordering experience.",True
+REV000017,ORD000049,CUST000315,P0046,2026-05-21,3,"The product is fine, but packaging can be improved.",True
+REV000018,ORD000484,CUST000246,P0006,2026-05-27,3,"The product is fine, but packaging can be improved.",False
+REV000019,ORD001079,CUST000297,P0014,2026-05-10,4,Perfect fit and very useful for training.,True
+REV000020,ORD000443,CUST000039,P0056,2026-05-23,1,Poor quality and the item arrived damaged.,False
+REV000021,ORD000862,CUST000201,P0077,2026-05-26,3,"Average quality, not bad but not excellent.",True
+REV000022,ORD000748,CUST000404,P0036,2026-05-18,5,The product quality is better than expected.,True
+REV000023,ORD000787,CUST000456,P0071,2026-05-05,5,The product quality is better than expected.,True
+REV000024,ORD000682,CUST000325,P0049,2026-05-18,3,"Product is okay, but delivery took a little longer.",False
+REV000025,ORD000871,CUST000218,P0081,2026-05-30,4,Perfect fit and very useful for training.,True
+REV000026,ORD001072,CUST000209,P0056,2026-05-27,1,The product is not worth the price.,False
+REV000027,ORD000013,CUST000313,P0018,2026-05-28,5,"Great product, good packaging, and smooth ordering experience.",True
+REV000028,ORD000672,CUST000178,P0028,2026-05-01,4,Excellent quality and fast delivery. I highly recommend this product.,True
+REV000029,ORD000387,CUST000022,P0084,2026-05-14,3,"Average quality, not bad but not excellent.",True
+REV000030,ORD001125,CUST000023,P0009,2026-05-13,3,It works as expected.,False
+REV000031,ORD000749,CUST000457,P0038,2026-05-21,4,Excellent quality and fast delivery. I highly recommend this product.,True
+REV000032,ORD000193,CUST000479,P0052,2026-05-02,3,"Good product, but the size guide was confusing.",False
+REV000033,ORD000297,CUST000144,P0057,2026-05-07,4,The product quality is better than expected.,True
+REV000034,ORD001111,CUST000348,P0098,2026-05-17,3,"Good product, but the size guide was confusing.",True
+REV000035,ORD000514,CUST000174,P0015,2026-05-04,1,Delivery was very late and customer support was slow.,False
+REV000036,ORD001149,CUST000139,P0050,2026-05-13,2,The product is not worth the price.,False
+REV000037,ORD000743,CUST000465,P0029,2026-05-16,4,Very comfortable and worth the price. I will buy again.,True
+REV000038,ORD000376,CUST000054,P0051,2026-05-17,5,Excellent quality and fast delivery. I highly recommend this product.,True
+REV000039,ORD000094,CUST000261,P0064,2026-05-18,1,Payment failed twice and the order process was frustrating.,False
+REV000040,ORD000100,CUST000144,P0016,2026-05-15,5,The product quality is better than expected.,True
+REV000041,ORD000272,CUST000009,P0057,2026-05-28,4,"Great product, good packaging, and smooth ordering experience.",True
+REV000042,ORD000455,CUST000215,P0048,2026-05-22,4,"Great product, good packaging, and smooth ordering experience.",True
+REV000043,ORD000976,CUST000492,P0051,2026-05-23,5,"Great product, good packaging, and smooth ordering experience.",True
+REV000044,ORD000142,CUST000472,P0024,2026-05-21,1,Poor quality and the item arrived damaged.,False
+REV000045,ORD000007,CUST000108,P0066,2026-05-11,5,Excellent quality and fast delivery. I highly recommend this product.,True
+REV000046,ORD000385,CUST000401,P0058,2026-05-18,3,"The product is fine, but packaging can be improved.",False
+REV000047,ORD000828,CUST000411,P0011,2026-05-24,2,Wrong item received and return process was difficult.,False
+REV000048,ORD000912,CUST000347,P0073,2026-05-27,4,Very comfortable and worth the price. I will buy again.,True
+REV000049,ORD000044,CUST000380,P0079,2026-05-12,5,"Great product, good packaging, and smooth ordering experience.",True
+REV000050,ORD000101,CUST000178,P0041,2026-05-02,1,Poor quality and the item arrived damaged.,False
+REV000051,ORD001145,CUST000442,P0024,2026-05-06,2,Poor quality and the item arrived damaged.,False
+REV000052,ORD000409,CUST000031,P0004,2026-05-06,4,The product quality is better than expected.,True
+REV000053,ORD000322,CUST000336,P0095,2026-05-04,4,"Great product, good packaging, and smooth ordering experience.",True
+REV000054,ORD000370,CUST000291,P0059,2026-05-13,4,"Great product, good packaging, and smooth ordering experience.",True
+REV000055,ORD000136,CUST000393,P0090,2026-05-26,5,The product quality is better than expected.,True
+REV000056,ORD000821,CUST000029,P0072,2026-05-10,4,The product quality is better than expected.,True
+REV000057,ORD000364,CUST000302,P0052,2026-05-07,1,Payment failed twice and the order process was frustrating.,False
+REV000058,ORD000764,CUST000252,P0091,2026-05-09,1,The product is not worth the price.,False
+REV000059,ORD000069,CUST000013,P0028,2026-05-18,4,The product quality is better than expected.,True
+REV000060,ORD000085,CUST000115,P0085,2026-05-24,2,Delivery was very late and customer support was slow.,False
+REV000061,ORD000652,CUST000326,P0047,2026-05-04,4,Perfect fit and very useful for training.,True
+REV000062,ORD000054,CUST000070,P0012,2026-05-05,4,The product quality is better than expected.,True
+REV000063,ORD000752,CUST000337,P0087,2026-05-19,4,The product quality is better than expected.,True
+REV000064,ORD000484,CUST000246,P0098,2026-05-27,1,Payment failed twice and the order process was frustrating.,False
+REV000065,ORD000116,CUST000225,P0094,2026-05-16,5,The product quality is better than expected.,True
+REV000066,ORD000910,CUST000014,P0049,2026-05-17,2,The product is not worth the price.,False
+REV000067,ORD000817,CUST000293,P0089,2026-05-14,4,Very comfortable and worth the price. I will buy again.,True
+REV000068,ORD001162,CUST000050,P0048,2026-05-18,5,Very comfortable and worth the price. I will buy again.,True
+REV000069,ORD000953,CUST000454,P0004,2026-05-21,5,Perfect fit and very useful for training.,True
+REV000070,ORD000877,CUST000332,P0025,2026-05-16,5,"Great product, good packaging, and smooth ordering experience.",True
+REV000071,ORD000245,CUST000353,P0085,2026-05-05,3,"The product is fine, but packaging can be improved.",True
+REV000072,ORD000280,CUST000432,P0072,2026-05-13,1,Payment failed twice and the order process was frustrating.,False
+REV000073,ORD000465,CUST000120,P0003,2026-05-19,2,The product is not worth the price.,False
+REV000074,ORD000533,CUST000120,P0060,2026-05-09,2,Delivery was very late and customer support was slow.,False
+REV000075,ORD000761,CUST000443,P0049,2026-05-19,1,Wrong item received and return process was difficult.,False
+REV000076,ORD000198,CUST000448,P0026,2026-05-18,5,Perfect fit and very useful for training.,True
+REV000077,ORD000118,CUST000191,P0032,2026-05-23,1,Delivery was very late and customer support was slow.,False
+REV000078,ORD000953,CUST000454,P0053,2026-05-30,4,Excellent quality and fast delivery. I highly recommend this product.,True
+REV000079,ORD000607,CUST000430,P0006,2026-05-22,5,Very comfortable and worth the price. I will buy again.,True
+REV000080,ORD000272,CUST000009,P0099,2026-05-15,2,Delivery was very late and customer support was slow.,False
+REV000081,ORD000821,CUST000029,P0090,2026-05-06,1,Payment failed twice and the order process was frustrating.,False
+REV000082,ORD000922,CUST000348,P0080,2026-05-15,1,Poor quality and the item arrived damaged.,False
+REV000083,ORD000417,CUST000403,P0055,2026-05-25,3,"Average quality, not bad but not excellent.",False
+REV000084,ORD000958,CUST000420,P0094,2026-05-16,3,"The product is fine, but packaging can be improved.",False
+REV000085,ORD000301,CUST000111,P0050,2026-05-27,5,Excellent quality and fast delivery. I highly recommend this product.,True
+REV000086,ORD001167,CUST000307,P0080,2026-05-08,4,Excellent quality and fast delivery. I highly recommend this product.,True
+REV000087,ORD000232,CUST000143,P0082,2026-05-13,5,The product quality is better than expected.,True
+REV000088,ORD000731,CUST000219,P0034,2026-05-17,4,Very comfortable and worth the price. I will buy again.,True
+REV000089,ORD000368,CUST000058,P0100,2026-05-23,1,Payment failed twice and the order process was frustrating.,False
+REV000090,ORD000833,CUST000364,P0015,2026-05-30,3,"Good product, but the size guide was confusing.",True
+REV000091,ORD000941,CUST000345,P0091,2026-05-22,4,Very comfortable and worth the price. I will buy again.,True
+REV000092,ORD000770,CUST000359,P0083,2026-05-14,3,"Average quality, not bad but not excellent.",False
+REV000093,ORD000286,CUST000069,P0027,2026-05-08,2,Delivery was very late and customer support was slow.,False
+REV000094,ORD000317,CUST000141,P0074,2026-05-07,3,"Product is okay, but delivery took a little longer.",True
+REV000095,ORD000939,CUST000146,P0011,2026-05-07,5,Excellent quality and fast delivery. I highly recommend this product.,True
+REV000096,ORD001126,CUST000147,P0008,2026-05-23,3,It works as expected.,False
+REV000097,ORD001018,CUST000178,P0096,2026-05-15,3,"Average quality, not bad but not excellent.",True
+REV000098,ORD000053,CUST000172,P0087,2026-05-28,1,The product is not worth the price.,False
+REV000099,ORD000918,CUST000490,P0041,2026-05-16,1,The product is not worth the price.,False
+REV000100,ORD000811,CUST000272,P0044,2026-05-07,3,It works as expected.,False
+REV000101,ORD000250,CUST000354,P0098,2026-05-21,3,"Product is okay, but delivery took a little longer.",False
+REV000102,ORD000893,CUST000194,P0058,2026-05-17,4,The product quality is better than expected.,True
+REV000103,ORD001115,CUST000184,P0001,2026-05-02,3,"Average quality, not bad but not excellent.",True
+REV000104,ORD001136,CUST000317,P0020,2026-05-20,3,"Product is okay, but delivery took a little longer.",False
+REV000105,ORD000663,CUST000337,P0043,2026-05-03,3,"Average quality, not bad but not excellent.",False
+REV000106,ORD000177,CUST000025,P0023,2026-05-08,3,"Average quality, not bad but not excellent.",True
+REV000107,ORD000285,CUST000028,P0035,2026-05-13,4,"Great product, good packaging, and smooth ordering experience.",True
+REV000108,ORD000709,CUST000205,P0008,2026-05-03,3,"Good product, but the size guide was confusing.",True
+REV000109,ORD000668,CUST000131,P0048,2026-05-26,3,"Average quality, not bad but not excellent.",True
+REV000110,ORD000661,CUST000175,P0073,2026-05-27,3,"Good product, but the size guide was confusing.",False
+REV000111,ORD001117,CUST000433,P0044,2026-05-11,5,Perfect fit and very useful for training.,True
+REV000112,ORD000917,CUST000363,P0038,2026-05-25,4,"Great product, good packaging, and smooth ordering experience.",True
+REV000113,ORD000296,CUST000172,P0027,2026-05-02,4,Excellent quality and fast delivery. I highly recommend this product.,True
+REV000114,ORD001137,CUST000056,P0023,2026-05-30,3,"Product is okay, but delivery took a little longer.",False
+REV000115,ORD000783,CUST000347,P0067,2026-05-29,5,The product quality is better than expected.,True
+REV000116,ORD000663,CUST000337,P0082,2026-05-08,4,Perfect fit and very useful for training.,True
+REV000117,ORD000007,CUST000108,P0040,2026-05-28,3,"Product is okay, but delivery took a little longer.",True
+REV000118,ORD000583,CUST000110,P0025,2026-05-11,3,"Good product, but the size guide was confusing.",True
+REV000119,ORD000622,CUST000117,P0059,2026-05-27,3,"Product is okay, but delivery took a little longer.",False
+REV000120,ORD000123,CUST000043,P0050,2026-05-28,3,"Good product, but the size guide was confusing.",False
+REV000121,ORD000374,CUST000007,P0076,2026-05-12,3,"Average quality, not bad but not excellent.",False
+REV000122,ORD000925,CUST000292,P0036,2026-05-07,3,"Product is okay, but delivery took a little longer.",True
+REV000123,ORD001200,CUST000024,P0087,2026-05-09,1,Poor quality and the item arrived damaged.,False
+REV000124,ORD000164,CUST000352,P0094,2026-05-12,5,"Great product, good packaging, and smooth ordering experience.",True
+REV000125,ORD000852,CUST000322,P0012,2026-05-15,4,Perfect fit and very useful for training.,True
+REV000126,ORD000342,CUST000223,P0013,2026-05-25,5,Perfect fit and very useful for training.,True
+REV000127,ORD000273,CUST000129,P0009,2026-05-10,3,"Product is okay, but delivery took a little longer.",False
+REV000128,ORD001013,CUST000468,P0042,2026-05-21,5,The product quality is better than expected.,True
+REV000129,ORD000523,CUST000310,P0065,2026-05-11,3,"The product is fine, but packaging can be improved.",True
+REV000130,ORD000110,CUST000094,P0091,2026-05-01,1,Wrong item received and return process was difficult.,False
+REV000131,ORD000659,CUST000350,P0012,2026-05-06,5,"Great product, good packaging, and smooth ordering experience.",True
+REV000132,ORD000929,CUST000459,P0058,2026-05-02,2,The product is not worth the price.,False
+REV000133,ORD001173,CUST000152,P0026,2026-05-20,1,Payment failed twice and the order process was frustrating.,False
+REV000134,ORD000897,CUST000296,P0039,2026-05-14,2,Wrong item received and return process was difficult.,False
+REV000135,ORD000741,CUST000177,P0011,2026-05-03,5,Perfect fit and very useful for training.,True
+REV000136,ORD000199,CUST000156,P0003,2026-05-07,3,"Product is okay, but delivery took a little longer.",False
+REV000137,ORD000762,CUST000078,P0031,2026-05-27,2,Payment failed twice and the order process was frustrating.,False
+REV000138,ORD000624,CUST000319,P0081,2026-05-25,5,Perfect fit and very useful for training.,True
+REV000139,ORD001198,CUST000260,P0015,2026-05-02,1,Delivery was very late and customer support was slow.,False
+REV000140,ORD000470,CUST000415,P0048,2026-05-06,4,Very comfortable and worth the price. I will buy again.,True
+REV000141,ORD000084,CUST000184,P0072,2026-05-09,3,"Product is okay, but delivery took a little longer.",True
+REV000142,ORD001121,CUST000152,P0097,2026-05-12,4,Excellent quality and fast delivery. I highly recommend this product.,True
+REV000143,ORD000335,CUST000337,P0059,2026-05-13,4,Very comfortable and worth the price. I will buy again.,True
+REV000144,ORD000340,CUST000306,P0074,2026-05-16,3,"The product is fine, but packaging can be improved.",False
+REV000145,ORD000490,CUST000496,P0098,2026-05-15,3,"The product is fine, but packaging can be improved.",True
+REV000146,ORD000735,CUST000121,P0075,2026-05-16,3,"Product is okay, but delivery took a little longer.",False
+REV000147,ORD000630,CUST000447,P0063,2026-05-11,5,"Great product, good packaging, and smooth ordering experience.",True
+REV000148,ORD000390,CUST000194,P0014,2026-05-09,4,Excellent quality and fast delivery. I highly recommend this product.,True
+REV000149,ORD000917,CUST000363,P0081,2026-05-06,3,"Good product, but the size guide was confusing.",False
+REV000150,ORD000195,CUST000026,P0089,2026-05-12,4,The product quality is better than expected.,True
+REV000151,ORD000686,CUST000408,P0022,2026-05-07,4,Very comfortable and worth the price. I will buy again.,True
+REV000152,ORD000347,CUST000212,P0088,2026-05-02,4,"Great product, good packaging, and smooth ordering experience.",True
+REV000153,ORD000014,CUST000398,P0075,2026-05-09,2,Delivery was very late and customer support was slow.,False
+REV000154,ORD000056,CUST000370,P0065,2026-05-06,2,The product is not worth the price.,False
+REV000155,ORD000035,CUST000147,P0071,2026-05-25,4,Perfect fit and very useful for training.,True
+REV000156,ORD000952,CUST000201,P0029,2026-05-29,2,The product is not worth the price.,False
+REV000157,ORD000504,CUST000317,P0072,2026-05-10,4,Perfect fit and very useful for training.,True
+REV000158,ORD000018,CUST000117,P0047,2026-05-26,3,"Product is okay, but delivery took a little longer.",False
+REV000159,ORD000782,CUST000269,P0007,2026-05-06,4,Perfect fit and very useful for training.,True
+REV000160,ORD000723,CUST000351,P0087,2026-05-08,3,"Average quality, not bad but not excellent.",True
+REV000161,ORD000058,CUST000102,P0092,2026-05-08,5,The product quality is better than expected.,True
+REV000162,ORD001097,CUST000070,P0039,2026-05-18,5,The product quality is better than expected.,True
+REV000163,ORD001003,CUST000039,P0088,2026-05-30,2,Delivery was very late and customer support was slow.,False
+REV000164,ORD000854,CUST000356,P0073,2026-05-17,4,"Great product, good packaging, and smooth ordering experience.",True
+REV000165,ORD000154,CUST000157,P0062,2026-05-25,3,"Product is okay, but delivery took a little longer.",False
+REV000166,ORD000267,CUST000406,P0010,2026-05-04,3,It works as expected.,False
+REV000167,ORD000419,CUST000217,P0082,2026-05-24,4,"Great product, good packaging, and smooth ordering experience.",True
+REV000168,ORD000565,CUST000336,P0084,2026-05-05,3,"Good product, but the size guide was confusing.",False
+REV000169,ORD000596,CUST000229,P0100,2026-05-24,4,Perfect fit and very useful for training.,True
+REV000170,ORD001144,CUST000130,P0078,2026-05-02,1,The product is not worth the price.,False
+REV000171,ORD000144,CUST000450,P0062,2026-05-20,4,"Great product, good packaging, and smooth ordering experience.",True
+REV000172,ORD000988,CUST000046,P0044,2026-05-18,1,Wrong item received and return process was difficult.,False
+REV000173,ORD000116,CUST000225,P0063,2026-05-18,4,Perfect fit and very useful for training.,True
+REV000174,ORD000743,CUST000465,P0070,2026-05-23,3,It works as expected.,False
+REV000175,ORD000047,CUST000091,P0063,2026-05-08,4,Perfect fit and very useful for training.,True
+REV000176,ORD000539,CUST000249,P0069,2026-05-04,3,"The product is fine, but packaging can be improved.",True
+REV000177,ORD000264,CUST000083,P0100,2026-05-02,3,"Good product, but the size guide was confusing.",True
+REV000178,ORD000819,CUST000334,P0071,2026-05-16,1,The product is not worth the price.,False
+REV000179,ORD001181,CUST000340,P0020,2026-05-25,3,It works as expected.,True
+REV000180,ORD000148,CUST000032,P0042,2026-05-13,1,Payment failed twice and the order process was frustrating.,False
+REV000181,ORD000260,CUST000466,P0042,2026-05-27,5,The product quality is better than expected.,True
+REV000182,ORD000481,CUST000193,P0088,2026-05-25,1,Payment failed twice and the order process was frustrating.,False
+REV000183,ORD000592,CUST000226,P0001,2026-05-02,3,"Average quality, not bad but not excellent.",True
+REV000184,ORD000385,CUST000401,P0088,2026-05-01,4,Perfect fit and very useful for training.,True
+REV000185,ORD000791,CUST000118,P0098,2026-05-16,4,Perfect fit and very useful for training.,True
+REV000186,ORD000731,CUST000219,P0096,2026-05-13,2,Wrong item received and return process was difficult.,False
+REV000187,ORD000019,CUST000302,P0034,2026-05-02,4,The product quality is better than expected.,True
+REV000188,ORD000166,CUST000383,P0100,2026-05-11,4,The product quality is better than expected.,True
+REV000189,ORD000872,CUST000239,P0039,2026-05-03,3,"Product is okay, but delivery took a little longer.",True
+REV000190,ORD000244,CUST000356,P0030,2026-05-10,4,Perfect fit and very useful for training.,True
+REV000191,ORD000721,CUST000229,P0023,2026-05-17,3,"Average quality, not bad but not excellent.",True
+REV000192,ORD000632,CUST000406,P0024,2026-05-27,3,"The product is fine, but packaging can be improved.",False
+REV000193,ORD000164,CUST000352,P0018,2026-05-14,4,Perfect fit and very useful for training.,True
+REV000194,ORD000008,CUST000407,P0071,2026-05-16,5,"Great product, good packaging, and smooth ordering experience.",True
+REV000195,ORD000814,CUST000363,P0061,2026-05-18,3,"Product is okay, but delivery took a little longer.",True
+REV000196,ORD000713,CUST000253,P0083,2026-05-16,5,"Great product, good packaging, and smooth ordering experience.",True
+REV000197,ORD001044,CUST000327,P0040,2026-05-19,5,Perfect fit and very useful for training.,True
+REV000198,ORD000614,CUST000462,P0023,2026-05-23,4,Excellent quality and fast delivery. I highly recommend this product.,True
+REV000199,ORD000370,CUST000291,P0029,2026-05-13,3,It works as expected.,True
+REV000200,ORD000149,CUST000454,P0069,2026-05-26,2,Delivery was very late and customer support was slow.,False
+REV000201,ORD000163,CUST000457,P0028,2026-05-04,4,The product quality is better than expected.,True
+REV000202,ORD000289,CUST000138,P0066,2026-05-24,3,"Average quality, not bad but not excellent.",True
+REV000203,ORD000429,CUST000418,P0075,2026-05-06,4,Perfect fit and very useful for training.,True
+REV000204,ORD000436,CUST000044,P0084,2026-05-23,3,"Average quality, not bad but not excellent.",True
+REV000205,ORD001134,CUST000013,P0077,2026-05-14,3,"Product is okay, but delivery took a little longer.",True
+REV000206,ORD000360,CUST000371,P0079,2026-05-10,2,Wrong item received and return process was difficult.,False
+REV000207,ORD000660,CUST000220,P0099,2026-05-10,5,Perfect fit and very useful for training.,True
+REV000208,ORD000592,CUST000226,P0026,2026-05-02,3,"The product is fine, but packaging can be improved.",False
+REV000209,ORD000767,CUST000212,P0041,2026-05-17,4,Perfect fit and very useful for training.,True
+REV000210,ORD000233,CUST000119,P0060,2026-05-01,1,Wrong item received and return process was difficult.,False
+REV000211,ORD000647,CUST000067,P0016,2026-05-15,4,Perfect fit and very useful for training.,True
+REV000212,ORD000195,CUST000026,P0065,2026-05-22,5,The product quality is better than expected.,True
+REV000213,ORD001064,CUST000343,P0035,2026-05-04,4,The product quality is better than expected.,True
+REV000214,ORD000146,CUST000317,P0021,2026-05-04,3,"Average quality, not bad but not excellent.",True
+REV000215,ORD000285,CUST000028,P0057,2026-05-11,5,"Great product, good packaging, and smooth ordering experience.",True
+REV000216,ORD000111,CUST000298,P0027,2026-05-24,4,Excellent quality and fast delivery. I highly recommend this product.,True
+REV000217,ORD000640,CUST000276,P0029,2026-05-03,3,"Good product, but the size guide was confusing.",True
+REV000218,ORD000626,CUST000178,P0020,2026-05-10,1,Poor quality and the item arrived damaged.,False
+REV000219,ORD000580,CUST000238,P0028,2026-05-13,2,Wrong item received and return process was difficult.,False
+REV000220,ORD001019,CUST000428,P0018,2026-05-24,4,Perfect fit and very useful for training.,True
+REV000221,ORD001048,CUST000166,P0090,2026-05-08,3,"Average quality, not bad but not excellent.",False
+REV000222,ORD000301,CUST000111,P0071,2026-05-17,1,Payment failed twice and the order process was frustrating.,False
+REV000223,ORD000623,CUST000481,P0078,2026-05-20,1,Delivery was very late and customer support was slow.,False
+REV000224,ORD000604,CUST000241,P0055,2026-05-21,1,The product is not worth the price.,False
+REV000225,ORD000436,CUST000044,P0033,2026-05-26,3,"The product is fine, but packaging can be improved.",False
+REV000226,ORD000339,CUST000361,P0043,2026-05-03,2,Poor quality and the item arrived damaged.,False
+REV000227,ORD000748,CUST000404,P0047,2026-05-23,3,It works as expected.,True
+REV000228,ORD000382,CUST000462,P0005,2026-05-01,4,The product quality is better than expected.,True
+REV000229,ORD000649,CUST000265,P0094,2026-05-06,1,Poor quality and the item arrived damaged.,False
+REV000230,ORD000114,CUST000260,P0092,2026-05-01,4,Very comfortable and worth the price. I will buy again.,True
+REV000231,ORD001183,CUST000474,P0037,2026-05-03,4,"Great product, good packaging, and smooth ordering experience.",True
+REV000232,ORD000033,CUST000042,P0057,2026-05-17,3,"Good product, but the size guide was confusing.",False
+REV000233,ORD000118,CUST000191,P0073,2026-05-23,5,Very comfortable and worth the price. I will buy again.,True
+REV000234,ORD000759,CUST000043,P0030,2026-05-23,2,The product is not worth the price.,False
+REV000235,ORD000119,CUST000135,P0016,2026-05-04,5,Very comfortable and worth the price. I will buy again.,True
+REV000236,ORD000902,CUST000031,P0028,2026-05-09,3,"Product is okay, but delivery took a little longer.",True
+REV000237,ORD000878,CUST000423,P0044,2026-05-22,1,Payment failed twice and the order process was frustrating.,False
+REV000238,ORD000091,CUST000055,P0017,2026-05-23,3,"Product is okay, but delivery took a little longer.",True
+REV000239,ORD000092,CUST000191,P0014,2026-05-06,5,"Great product, good packaging, and smooth ordering experience.",True
+REV000240,ORD000443,CUST000039,P0057,2026-05-11,5,Very comfortable and worth the price. I will buy again.,True
+REV000241,ORD000759,CUST000043,P0098,2026-05-10,4,Excellent quality and fast delivery. I highly recommend this product.,True
+REV000242,ORD000287,CUST000193,P0075,2026-05-05,3,"Average quality, not bad but not excellent.",True
+REV000243,ORD000448,CUST000227,P0065,2026-05-26,3,"Good product, but the size guide was confusing.",True
+REV000244,ORD001134,CUST000013,P0092,2026-05-10,3,It works as expected.,True
+REV000245,ORD000928,CUST000392,P0015,2026-05-11,3,"The product is fine, but packaging can be improved.",False
+REV000246,ORD001179,CUST000438,P0049,2026-05-12,2,The product is not worth the price.,False
+REV000247,ORD000508,CUST000185,P0087,2026-05-27,3,"Good product, but the size guide was confusing.",True
+REV000248,ORD000995,CUST000131,P0006,2026-05-25,3,"Good product, but the size guide was confusing.",True
+REV000249,ORD000046,CUST000163,P0073,2026-05-08,4,Very comfortable and worth the price. I will buy again.,True
+REV000250,ORD000378,CUST000421,P0068,2026-05-09,3,"The product is fine, but packaging can be improved.",True
+REV000251,ORD000823,CUST000313,P0002,2026-05-12,2,The product is not worth the price.,False
+REV000252,ORD000535,CUST000278,P0086,2026-05-24,4,Very comfortable and worth the price. I will buy again.,True
+REV000253,ORD000510,CUST000249,P0034,2026-05-19,3,"Product is okay, but delivery took a little longer.",False
+REV000254,ORD000499,CUST000339,P0076,2026-05-20,3,"Good product, but the size guide was confusing.",False
+REV000255,ORD000805,CUST000129,P0074,2026-05-27,5,Very comfortable and worth the price. I will buy again.,True
+REV000256,ORD001198,CUST000260,P0009,2026-05-11,1,Delivery was very late and customer support was slow.,False
+REV000257,ORD000083,CUST000161,P0043,2026-05-17,3,"Average quality, not bad but not excellent.",False
+REV000258,ORD001156,CUST000018,P0003,2026-05-23,3,"Product is okay, but delivery took a little longer.",True
+REV000259,ORD000770,CUST000359,P0007,2026-05-08,4,"Great product, good packaging, and smooth ordering experience.",True
+REV000260,ORD001178,CUST000044,P0037,2026-05-22,5,Perfect fit and very useful for training.,True
+REV000261,ORD000575,CUST000183,P0012,2026-05-26,2,Delivery was very late and customer support was slow.,False
+REV000262,ORD000883,CUST000186,P0047,2026-05-30,3,"Good product, but the size guide was confusing.",False
+REV000263,ORD000518,CUST000155,P0065,2026-05-29,1,Payment failed twice and the order process was frustrating.,False
+REV000264,ORD000088,CUST000390,P0012,2026-05-16,3,"Good product, but the size guide was confusing.",False
+REV000265,ORD001137,CUST000056,P0012,2026-05-09,4,Perfect fit and very useful for training.,True
+REV000266,ORD000259,CUST000397,P0058,2026-05-11,5,Very comfortable and worth the price. I will buy again.,True
+REV000267,ORD000685,CUST000090,P0096,2026-05-11,4,Perfect fit and very useful for training.,True
+REV000268,ORD000954,CUST000146,P0088,2026-05-08,3,"Product is okay, but delivery took a little longer.",True
+REV000269,ORD000705,CUST000080,P0089,2026-05-20,3,"Average quality, not bad but not excellent.",False
+REV000270,ORD001015,CUST000017,P0036,2026-05-09,3,"The product is fine, but packaging can be improved.",True
+REV000271,ORD000745,CUST000164,P0024,2026-05-20,4,"Great product, good packaging, and smooth ordering experience.",True
+REV000272,ORD000160,CUST000080,P0045,2026-05-09,1,The product is not worth the price.,False
+REV000273,ORD000338,CUST000352,P0035,2026-05-02,2,The product is not worth the price.,False
+REV000274,ORD000182,CUST000470,P0023,2026-05-18,5,Excellent quality and fast delivery. I highly recommend this product.,True
+REV000275,ORD000430,CUST000254,P0017,2026-05-08,4,Excellent quality and fast delivery. I highly recommend this product.,True
+REV000276,ORD000365,CUST000393,P0046,2026-05-11,5,Very comfortable and worth the price. I will buy again.,True
+REV000277,ORD000964,CUST000256,P0021,2026-05-27,2,Payment failed twice and the order process was frustrating.,False
+REV000278,ORD000122,CUST000033,P0044,2026-05-29,1,Delivery was very late and customer support was slow.,False
+REV000279,ORD000112,CUST000401,P0038,2026-05-12,5,Perfect fit and very useful for training.,True
+REV000280,ORD000439,CUST000496,P0081,2026-05-15,5,"Great product, good packaging, and smooth ordering experience.",True
+REV000281,ORD000765,CUST000014,P0015,2026-05-29,4,Excellent quality and fast delivery. I highly recommend this product.,True
+REV000282,ORD000682,CUST000325,P0038,2026-05-15,5,Perfect fit and very useful for training.,True
+REV000283,ORD000817,CUST000293,P0016,2026-05-27,3,It works as expected.,True
+REV000284,ORD001199,CUST000279,P0013,2026-05-19,3,"The product is fine, but packaging can be improved.",False
+REV000285,ORD001106,CUST000266,P0008,2026-05-29,4,Perfect fit and very useful for training.,True
+REV000286,ORD000897,CUST000296,P0031,2026-05-15,2,Poor quality and the item arrived damaged.,False
+REV000287,ORD000808,CUST000079,P0090,2026-05-18,4,"Great product, good packaging, and smooth ordering experience.",True
+REV000288,ORD001075,CUST000278,P0065,2026-05-19,3,"Good product, but the size guide was confusing.",False
+REV000289,ORD000904,CUST000237,P0004,2026-05-24,4,Excellent quality and fast delivery. I highly recommend this product.,True
+REV000290,ORD000818,CUST000296,P0081,2026-05-25,5,Perfect fit and very useful for training.,True
+REV000291,ORD001012,CUST000019,P0025,2026-05-12,1,Delivery was very late and customer support was slow.,False
+REV000292,ORD000479,CUST000257,P0068,2026-05-04,4,"Great product, good packaging, and smooth ordering experience.",True
+REV000293,ORD000005,CUST000073,P0048,2026-05-24,4,Perfect fit and very useful for training.,True
+REV000294,ORD000382,CUST000462,P0013,2026-05-29,4,Perfect fit and very useful for training.,True
+REV000295,ORD000691,CUST000212,P0041,2026-05-11,2,The product is not worth the price.,False
+REV000296,ORD000057,CUST000208,P0093,2026-05-14,3,It works as expected.,True
+REV000297,ORD000859,CUST000408,P0026,2026-05-12,2,Poor quality and the item arrived damaged.,False
+REV000298,ORD000765,CUST000014,P0017,2026-05-08,3,"The product is fine, but packaging can be improved.",False
+REV000299,ORD000347,CUST000212,P0037,2026-05-25,3,"Average quality, not bad but not excellent.",False
+REV000300,ORD000999,CUST000421,P0086,2026-05-29,1,Wrong item received and return process was difficult.,False
+REV000301,ORD000160,CUST000080,P0039,2026-05-12,4,Perfect fit and very useful for training.,True
+REV000302,ORD000275,CUST000359,P0071,2026-05-10,1,Delivery was very late and customer support was slow.,False
+REV000303,ORD000012,CUST000187,P0018,2026-05-17,2,Delivery was very late and customer support was slow.,False
+REV000304,ORD000675,CUST000083,P0090,2026-05-18,1,Delivery was very late and customer support was slow.,False
+REV000305,ORD000732,CUST000274,P0005,2026-05-13,3,"Average quality, not bad but not excellent.",False
+REV000306,ORD000308,CUST000053,P0035,2026-05-30,4,The product quality is better than expected.,True
+REV000307,ORD000840,CUST000470,P0006,2026-05-27,2,Delivery was very late and customer support was slow.,False
+REV000308,ORD000370,CUST000291,P0021,2026-05-15,4,Perfect fit and very useful for training.,True
+REV000309,ORD001119,CUST000031,P0041,2026-05-13,3,"The product is fine, but packaging can be improved.",True
+REV000310,ORD000493,CUST000349,P0080,2026-05-09,1,Payment failed twice and the order process was frustrating.,False
+REV000311,ORD000912,CUST000347,P0030,2026-05-10,4,Excellent quality and fast delivery. I highly recommend this product.,True
+REV000312,ORD001112,CUST000450,P0045,2026-05-19,4,The product quality is better than expected.,True
+REV000313,ORD000307,CUST000141,P0099,2026-05-25,1,Wrong item received and return process was difficult.,False
+REV000314,ORD000168,CUST000131,P0074,2026-05-08,3,"Product is okay, but delivery took a little longer.",False
+REV000315,ORD000983,CUST000146,P0077,2026-05-14,5,Very comfortable and worth the price. I will buy again.,True
+REV000316,ORD000755,CUST000175,P0032,2026-05-28,3,"Average quality, not bad but not excellent.",True
+REV000317,ORD001084,CUST000137,P0074,2026-05-12,1,Delivery was very late and customer support was slow.,False
+REV000318,ORD000270,CUST000328,P0087,2026-05-02,5,Perfect fit and very useful for training.,True
+REV000319,ORD000727,CUST000331,P0035,2026-05-24,4,"Great product, good packaging, and smooth ordering experience.",True
+REV000320,ORD000708,CUST000378,P0004,2026-05-15,1,Poor quality and the item arrived damaged.,False
+REV000321,ORD001076,CUST000292,P0070,2026-05-28,5,Very comfortable and worth the price. I will buy again.,True
+REV000322,ORD000054,CUST000070,P0083,2026-05-20,3,"Good product, but the size guide was confusing.",False
+REV000323,ORD000647,CUST000067,P0033,2026-05-16,3,"Product is okay, but delivery took a little longer.",True
+REV000324,ORD001103,CUST000492,P0003,2026-05-09,1,Wrong item received and return process was difficult.,False
+REV000325,ORD000266,CUST000123,P0089,2026-05-16,3,"Good product, but the size guide was confusing.",True
+REV000326,ORD000340,CUST000306,P0035,2026-05-16,1,Payment failed twice and the order process was frustrating.,False
+REV000327,ORD000664,CUST000365,P0098,2026-05-18,5,Very comfortable and worth the price. I will buy again.,True
+REV000328,ORD000567,CUST000372,P0032,2026-05-04,4,The product quality is better than expected.,True
+REV000329,ORD001183,CUST000474,P0053,2026-05-06,5,"Great product, good packaging, and smooth ordering experience.",True
+REV000330,ORD000016,CUST000004,P0003,2026-05-25,3,"The product is fine, but packaging can be improved.",True
+REV000331,ORD000557,CUST000086,P0086,2026-05-21,5,Excellent quality and fast delivery. I highly recommend this product.,True
+REV000332,ORD000172,CUST000452,P0096,2026-05-15,3,"The product is fine, but packaging can be improved.",False
+REV000333,ORD000169,CUST000279,P0096,2026-05-22,1,Poor quality and the item arrived damaged.,False
+REV000334,ORD000134,CUST000329,P0032,2026-05-26,2,The product is not worth the price.,False
+REV000335,ORD000491,CUST000118,P0099,2026-05-03,5,Perfect fit and very useful for training.,True
+REV000336,ORD000224,CUST000423,P0055,2026-05-22,4,The product quality is better than expected.,True
+REV000337,ORD000149,CUST000454,P0064,2026-05-24,3,"Average quality, not bad but not excellent.",True
+REV000338,ORD000235,CUST000330,P0052,2026-05-22,1,Poor quality and the item arrived damaged.,False
+REV000339,ORD000204,CUST000491,P0026,2026-05-28,3,"Good product, but the size guide was confusing.",True
+REV000340,ORD000497,CUST000166,P0024,2026-05-27,3,It works as expected.,False
+REV000341,ORD001072,CUST000209,P0038,2026-05-22,4,The product quality is better than expected.,True
+REV000342,ORD000192,CUST000451,P0066,2026-05-22,3,"Product is okay, but delivery took a little longer.",False
+REV000343,ORD001077,CUST000262,P0012,2026-05-19,5,Very comfortable and worth the price. I will buy again.,True
+REV000344,ORD000168,CUST000131,P0014,2026-05-12,3,"Product is okay, but delivery took a little longer.",False
+REV000345,ORD000270,CUST000328,P0049,2026-05-04,5,"Great product, good packaging, and smooth ordering experience.",True
+REV000346,ORD000732,CUST000274,P0003,2026-05-17,2,Payment failed twice and the order process was frustrating.,False
+REV000347,ORD000998,CUST000432,P0019,2026-05-09,3,"Product is okay, but delivery took a little longer.",False
+REV000348,ORD001073,CUST000193,P0082,2026-05-22,4,"Great product, good packaging, and smooth ordering experience.",True
+REV000349,ORD000956,CUST000349,P0055,2026-05-22,4,The product quality is better than expected.,True
+REV000350,ORD000043,CUST000106,P0045,2026-05-17,2,Wrong item received and return process was difficult.,False
+REV000351,ORD000542,CUST000444,P0036,2026-05-24,4,The product quality is better than expected.,True
+REV000352,ORD000930,CUST000182,P0012,2026-05-21,5,Perfect fit and very useful for training.,True
+REV000353,ORD000286,CUST000069,P0038,2026-05-17,4,"Great product, good packaging, and smooth ordering experience.",True
+REV000354,ORD000619,CUST000310,P0006,2026-05-20,4,Perfect fit and very useful for training.,True
+REV000355,ORD000297,CUST000144,P0029,2026-05-30,5,Perfect fit and very useful for training.,True
+REV000356,ORD000182,CUST000470,P0042,2026-05-04,5,Perfect fit and very useful for training.,True
+REV000357,ORD000371,CUST000268,P0007,2026-05-15,3,"The product is fine, but packaging can be improved.",False
+REV000358,ORD001090,CUST000482,P0052,2026-05-21,5,Very comfortable and worth the price. I will buy again.,True
+REV000359,ORD000131,CUST000155,P0097,2026-05-04,3,"Average quality, not bad but not excellent.",True
+REV000360,ORD000312,CUST000049,P0064,2026-05-12,5,Very comfortable and worth the price. I will buy again.,True
+REV000361,ORD000181,CUST000027,P0015,2026-05-01,4,"Great product, good packaging, and smooth ordering experience.",True
+REV000362,ORD001198,CUST000260,P0003,2026-05-11,3,"Good product, but the size guide was confusing.",False
+REV000363,ORD001055,CUST000493,P0061,2026-05-06,2,The product is not worth the price.,False
+REV000364,ORD000169,CUST000279,P0049,2026-05-03,4,"Great product, good packaging, and smooth ordering experience.",True
+REV000365,ORD001192,CUST000031,P0023,2026-05-19,5,The product quality is better than expected.,True
+REV000366,ORD000170,CUST000131,P0037,2026-05-16,2,Poor quality and the item arrived damaged.,False
+REV000367,ORD000249,CUST000184,P0071,2026-05-17,5,Perfect fit and very useful for training.,True
+REV000368,ORD000134,CUST000329,P0073,2026-05-27,3,"Good product, but the size guide was confusing.",True
+REV000369,ORD000205,CUST000221,P0099,2026-05-10,5,The product quality is better than expected.,True
+REV000370,ORD000194,CUST000469,P0025,2026-05-28,5,Excellent quality and fast delivery. I highly recommend this product.,True
+REV000371,ORD000818,CUST000296,P0053,2026-05-16,5,The product quality is better than expected.,True
+REV000372,ORD000724,CUST000396,P0040,2026-05-18,5,Excellent quality and fast delivery. I highly recommend this product.,True
+REV000373,ORD001079,CUST000297,P0032,2026-05-28,4,Very comfortable and worth the price. I will buy again.,True
+REV000374,ORD000233,CUST000119,P0061,2026-05-23,5,Perfect fit and very useful for training.,True
+REV000375,ORD001118,CUST000104,P0043,2026-05-21,3,"Average quality, not bad but not excellent.",True
+REV000376,ORD000208,CUST000019,P0056,2026-05-17,5,The product quality is better than expected.,True
+REV000377,ORD001173,CUST000152,P0027,2026-05-09,3,"Average quality, not bad but not excellent.",False
+REV000378,ORD001133,CUST000012,P0027,2026-05-16,1,The product is not worth the price.,False
+REV000379,ORD001072,CUST000209,P0025,2026-05-22,2,Delivery was very late and customer support was slow.,False
+REV000380,ORD001073,CUST000193,P0081,2026-05-24,3,"Good product, but the size guide was confusing.",True
+REV000381,ORD000472,CUST000408,P0012,2026-05-14,5,The product quality is better than expected.,True
+REV000382,ORD000867,CUST000289,P0041,2026-05-14,3,It works as expected.,False
+REV000383,ORD000984,CUST000324,P0015,2026-05-17,2,Delivery was very late and customer support was slow.,False
+REV000384,ORD000362,CUST000311,P0020,2026-05-04,3,"Product is okay, but delivery took a little longer.",True
+REV000385,ORD000480,CUST000274,P0063,2026-05-14,3,It works as expected.,False
+REV000386,ORD000724,CUST000396,P0011,2026-05-03,4,Excellent quality and fast delivery. I highly recommend this product.,True
+REV000387,ORD001095,CUST000011,P0058,2026-05-06,3,"The product is fine, but packaging can be improved.",False
+REV000388,ORD000180,CUST000207,P0058,2026-05-25,1,Payment failed twice and the order process was frustrating.,False
+REV000389,ORD000396,CUST000488,P0013,2026-05-20,2,Payment failed twice and the order process was frustrating.,False
+REV000390,ORD000478,CUST000186,P0001,2026-05-03,3,"The product is fine, but packaging can be improved.",False
+REV000391,ORD000436,CUST000044,P0070,2026-05-06,3,"Product is okay, but delivery took a little longer.",False
+REV000392,ORD000257,CUST000367,P0021,2026-05-16,3,It works as expected.,False
+REV000393,ORD000824,CUST000458,P0026,2026-05-04,3,"Average quality, not bad but not excellent.",True
+REV000394,ORD000317,CUST000141,P0058,2026-05-30,4,Very comfortable and worth the price. I will buy again.,True
+REV000395,ORD000321,CUST000404,P0025,2026-05-15,5,Perfect fit and very useful for training.,True
+REV000396,ORD000871,CUST000218,P0020,2026-05-12,4,"Great product, good packaging, and smooth ordering experience.",True
+REV000397,ORD000282,CUST000014,P0028,2026-05-02,4,Excellent quality and fast delivery. I highly recommend this product.,True
+REV000398,ORD000864,CUST000004,P0006,2026-05-19,5,Perfect fit and very useful for training.,True
+REV000399,ORD000097,CUST000098,P0063,2026-05-26,4,Perfect fit and very useful for training.,True
+REV000400,ORD000323,CUST000007,P0082,2026-05-19,1,Poor quality and the item arrived damaged.,False
+REV000401,ORD001100,CUST000177,P0090,2026-05-11,5,"Great product, good packaging, and smooth ordering experience.",True
+REV000402,ORD000161,CUST000090,P0014,2026-05-11,2,Delivery was very late and customer support was slow.,False
+REV000403,ORD000287,CUST000193,P0010,2026-05-12,5,Very comfortable and worth the price. I will buy again.,True
+REV000404,ORD000284,CUST000238,P0033,2026-05-07,1,The product is not worth the price.,False
+REV000405,ORD000059,CUST000410,P0039,2026-05-30,4,Very comfortable and worth the price. I will buy again.,True
+REV000406,ORD000530,CUST000288,P0009,2026-05-25,5,Excellent quality and fast delivery. I highly recommend this product.,True
+REV000407,ORD000507,CUST000339,P0082,2026-05-15,4,Perfect fit and very useful for training.,True
+REV000408,ORD000888,CUST000123,P0010,2026-05-04,3,It works as expected.,True
+REV000409,ORD000085,CUST000115,P0007,2026-05-19,1,Payment failed twice and the order process was frustrating.,False
+REV000410,ORD000283,CUST000152,P0049,2026-05-14,2,Payment failed twice and the order process was frustrating.,False
+REV000411,ORD001061,CUST000113,P0052,2026-05-11,2,Wrong item received and return process was difficult.,False
+REV000412,ORD000101,CUST000178,P0072,2026-05-14,4,Very comfortable and worth the price. I will buy again.,True
+REV000413,ORD000507,CUST000339,P0053,2026-05-21,4,Perfect fit and very useful for training.,True
+REV000414,ORD000466,CUST000153,P0018,2026-05-12,3,It works as expected.,False
+REV000415,ORD000741,CUST000177,P0007,2026-05-09,2,Poor quality and the item arrived damaged.,False
+REV000416,ORD000545,CUST000372,P0070,2026-05-25,3,It works as expected.,True
+REV000417,ORD001045,CUST000124,P0064,2026-05-26,3,"Product is okay, but delivery took a little longer.",True
+REV000418,ORD000711,CUST000218,P0100,2026-05-28,5,"Great product, good packaging, and smooth ordering experience.",True
+REV000419,ORD000089,CUST000241,P0052,2026-05-07,3,"Average quality, not bad but not excellent.",False
+REV000420,ORD000181,CUST000027,P0058,2026-05-27,3,"Average quality, not bad but not excellent.",True
+REV000421,ORD000683,CUST000481,P0058,2026-05-01,1,Wrong item received and return process was difficult.,False
+REV000422,ORD000126,CUST000418,P0041,2026-05-07,4,Very comfortable and worth the price. I will buy again.,True
+REV000423,ORD001159,CUST000456,P0099,2026-05-07,4,Excellent quality and fast delivery. I highly recommend this product.,True
+REV000424,ORD001069,CUST000106,P0022,2026-05-27,3,"The product is fine, but packaging can be improved.",False
+REV000425,ORD000349,CUST000235,P0091,2026-05-26,1,Wrong item received and return process was difficult.,False
+REV000426,ORD000660,CUST000220,P0001,2026-05-26,5,Perfect fit and very useful for training.,True
+REV000427,ORD001182,CUST000275,P0086,2026-05-01,4,Perfect fit and very useful for training.,True
+REV000428,ORD000051,CUST000017,P0066,2026-05-15,2,Wrong item received and return process was difficult.,False
+REV000429,ORD000873,CUST000251,P0068,2026-05-04,4,Very comfortable and worth the price. I will buy again.,True
+REV000430,ORD000543,CUST000268,P0079,2026-05-17,3,"Product is okay, but delivery took a little longer.",False
+REV000431,ORD000234,CUST000392,P0061,2026-05-19,5,The product quality is better than expected.,True
+REV000432,ORD000064,CUST000485,P0021,2026-05-23,4,Excellent quality and fast delivery. I highly recommend this product.,True
+REV000433,ORD000218,CUST000066,P0090,2026-05-10,1,Payment failed twice and the order process was frustrating.,False
+REV000434,ORD000901,CUST000491,P0024,2026-05-01,1,Delivery was very late and customer support was slow.,False
+REV000435,ORD000867,CUST000289,P0081,2026-05-14,4,The product quality is better than expected.,True
+REV000436,ORD000185,CUST000268,P0097,2026-05-06,4,The product quality is better than expected.,True
+REV000437,ORD000469,CUST000330,P0090,2026-05-26,3,It works as expected.,True
+REV000438,ORD000114,CUST000260,P0051,2026-05-29,3,"The product is fine, but packaging can be improved.",True
+REV000439,ORD000523,CUST000310,P0027,2026-05-15,2,The product is not worth the price.,False
+REV000440,ORD000004,CUST000314,P0089,2026-05-01,5,Perfect fit and very useful for training.,True
+REV000441,ORD000095,CUST000035,P0088,2026-05-23,2,Wrong item received and return process was difficult.,False
+REV000442,ORD000027,CUST000311,P0076,2026-05-24,1,Wrong item received and return process was difficult.,False
+REV000443,ORD001079,CUST000297,P0058,2026-05-19,4,Excellent quality and fast delivery. I highly recommend this product.,True
+REV000444,ORD000505,CUST000308,P0038,2026-05-05,1,Wrong item received and return process was difficult.,False
+REV000445,ORD000931,CUST000315,P0098,2026-05-23,5,Excellent quality and fast delivery. I highly recommend this product.,True
+REV000446,ORD000908,CUST000218,P0033,2026-05-24,2,The product is not worth the price.,False
+REV000447,ORD001188,CUST000232,P0022,2026-05-28,3,"The product is fine, but packaging can be improved.",True
+REV000448,ORD000543,CUST000268,P0048,2026-05-06,4,"Great product, good packaging, and smooth ordering experience.",True
+REV000449,ORD000929,CUST000459,P0017,2026-05-07,3,"Product is okay, but delivery took a little longer.",True
+REV000450,ORD000204,CUST000491,P0065,2026-05-23,5,The product quality is better than expected.,True
+REV000451,ORD000251,CUST000125,P0027,2026-05-13,5,Perfect fit and very useful for training.,True
+REV000452,ORD000199,CUST000156,P0085,2026-05-23,3,"Average quality, not bad but not excellent.",False
+REV000453,ORD000471,CUST000093,P0064,2026-05-04,5,Very comfortable and worth the price. I will buy again.,True
+REV000454,ORD000624,CUST000319,P0019,2026-05-28,3,It works as expected.,False
+REV000455,ORD000604,CUST000241,P0095,2026-05-24,3,"Good product, but the size guide was confusing.",False
+REV000456,ORD000428,CUST000186,P0099,2026-05-28,2,Payment failed twice and the order process was frustrating.,False
+REV000457,ORD000854,CUST000356,P0072,2026-05-20,1,Delivery was very late and customer support was slow.,False
+REV000458,ORD001194,CUST000474,P0004,2026-05-22,3,"Average quality, not bad but not excellent.",True
+REV000459,ORD000327,CUST000451,P0095,2026-05-13,4,"Great product, good packaging, and smooth ordering experience.",True
+REV000460,ORD000211,CUST000452,P0065,2026-05-09,2,Poor quality and the item arrived damaged.,False
+REV000461,ORD000579,CUST000361,P0026,2026-05-17,3,"Product is okay, but delivery took a little longer.",False
+REV000462,ORD000881,CUST000476,P0060,2026-05-28,1,Wrong item received and return process was difficult.,False
+REV000463,ORD001086,CUST000134,P0040,2026-05-02,4,Very comfortable and worth the price. I will buy again.,True
+REV000464,ORD000233,CUST000119,P0095,2026-05-11,5,"Great product, good packaging, and smooth ordering experience.",True
+REV000465,ORD000681,CUST000073,P0064,2026-05-15,2,Delivery was very late and customer support was slow.,False
+REV000466,ORD000594,CUST000115,P0062,2026-05-17,5,Perfect fit and very useful for training.,True
+REV000467,ORD000648,CUST000109,P0035,2026-05-27,5,Excellent quality and fast delivery. I highly recommend this product.,True
+REV000468,ORD000181,CUST000027,P0031,2026-05-22,5,"Great product, good packaging, and smooth ordering experience.",True
+REV000469,ORD000355,CUST000157,P0005,2026-05-29,4,Very comfortable and worth the price. I will buy again.,True
+REV000470,ORD000320,CUST000452,P0023,2026-05-12,2,Wrong item received and return process was difficult.,False
+REV000471,ORD000669,CUST000398,P0095,2026-05-12,5,Perfect fit and very useful for training.,True
+REV000472,ORD000981,CUST000436,P0032,2026-05-28,4,Perfect fit and very useful for training.,True
+REV000473,ORD000019,CUST000302,P0064,2026-05-09,5,"Great product, good packaging, and smooth ordering experience.",True
+REV000474,ORD000802,CUST000414,P0042,2026-05-01,3,It works as expected.,True
+REV000475,ORD000137,CUST000367,P0100,2026-05-27,2,Delivery was very late and customer support was slow.,False
+REV000476,ORD000256,CUST000077,P0013,2026-05-02,4,Excellent quality and fast delivery. I highly recommend this product.,True
+REV000477,ORD000871,CUST000218,P0054,2026-05-02,3,"Product is okay, but delivery took a little longer.",False
+REV000478,ORD000563,CUST000344,P0056,2026-05-24,4,Excellent quality and fast delivery. I highly recommend this product.,True
+REV000479,ORD001024,CUST000453,P0043,2026-05-18,4,Very comfortable and worth the price. I will buy again.,True
+REV000480,ORD000670,CUST000054,P0066,2026-05-10,4,"Great product, good packaging, and smooth ordering experience.",True
+REV000481,ORD000500,CUST000373,P0019,2026-05-13,3,It works as expected.,True
+REV000482,ORD000590,CUST000253,P0081,2026-05-08,5,"Great product, good packaging, and smooth ordering experience.",True
+REV000483,ORD000991,CUST000009,P0072,2026-05-28,2,Poor quality and the item arrived damaged.,False
+REV000484,ORD000125,CUST000127,P0017,2026-05-28,4,Perfect fit and very useful for training.,True
+REV000485,ORD001092,CUST000214,P0014,2026-05-20,3,"Average quality, not bad but not excellent.",False
+REV000486,ORD001041,CUST000026,P0060,2026-05-19,5,The product quality is better than expected.,True
+REV000487,ORD000430,CUST000254,P0011,2026-05-19,1,The product is not worth the price.,False
+REV000488,ORD000662,CUST000412,P0039,2026-05-09,1,The product is not worth the price.,False
+REV000489,ORD001168,CUST000170,P0005,2026-05-18,3,"Product is okay, but delivery took a little longer.",False
+REV000490,ORD000521,CUST000105,P0087,2026-05-28,5,Perfect fit and very useful for training.,True
+REV000491,ORD000839,CUST000205,P0005,2026-05-27,1,The product is not worth the price.,False
+REV000492,ORD000388,CUST000343,P0015,2026-05-18,4,The product quality is better than expected.,True
+REV000493,ORD000087,CUST000102,P0082,2026-05-22,1,Payment failed twice and the order process was frustrating.,False
+REV000494,ORD001172,CUST000493,P0098,2026-05-23,5,"Great product, good packaging, and smooth ordering experience.",True
+REV000495,ORD000687,CUST000301,P0066,2026-05-19,5,Perfect fit and very useful for training.,True
+REV000496,ORD000897,CUST000296,P0067,2026-05-05,3,"Good product, but the size guide was confusing.",False
+REV000497,ORD000404,CUST000159,P0038,2026-05-22,3,It works as expected.,False
+REV000498,ORD000011,CUST000067,P0049,2026-05-04,1,Payment failed twice and the order process was frustrating.,False
+REV000499,ORD000076,CUST000061,P0030,2026-05-10,1,The product is not worth the price.,False
+REV000500,ORD000771,CUST000018,P0010,2026-05-13,4,The product quality is better than expected.,True
+REV000501,ORD000738,CUST000358,P0049,2026-05-08,5,The product quality is better than expected.,True
+REV000502,ORD000052,CUST000403,P0032,2026-05-07,1,Payment failed twice and the order process was frustrating.,False
+REV000503,ORD000570,CUST000396,P0084,2026-05-09,4,Excellent quality and fast delivery. I highly recommend this product.,True
+REV000504,ORD000894,CUST000236,P0037,2026-05-08,3,"Product is okay, but delivery took a little longer.",False
+REV000505,ORD000853,CUST000301,P0016,2026-05-21,1,Delivery was very late and customer support was slow.,False
+REV000506,ORD001142,CUST000401,P0040,2026-05-25,3,"Good product, but the size guide was confusing.",True
+REV000507,ORD000515,CUST000149,P0061,2026-05-13,3,It works as expected.,True
+REV000508,ORD000862,CUST000201,P0068,2026-05-01,3,It works as expected.,False
+REV000509,ORD000889,CUST000194,P0100,2026-05-07,3,"Product is okay, but delivery took a little longer.",False
+REV000510,ORD000539,CUST000249,P0042,2026-05-10,4,The product quality is better than expected.,True
+REV000511,ORD000541,CUST000066,P0090,2026-05-01,3,"Average quality, not bad but not excellent.",True
+REV000512,ORD000029,CUST000319,P0063,2026-05-01,3,"The product is fine, but packaging can be improved.",False
+REV000513,ORD000460,CUST000153,P0014,2026-05-16,1,Delivery was very late and customer support was slow.,False
+REV000514,ORD000170,CUST000131,P0056,2026-05-11,4,"Great product, good packaging, and smooth ordering experience.",True
+REV000515,ORD000697,CUST000289,P0029,2026-05-27,3,It works as expected.,False
+REV000516,ORD000922,CUST000348,P0014,2026-05-27,5,"Great product, good packaging, and smooth ordering experience.",True
+REV000517,ORD001091,CUST000252,P0055,2026-05-08,4,Excellent quality and fast delivery. I highly recommend this product.,True
+REV000518,ORD000435,CUST000270,P0026,2026-05-10,3,"The product is fine, but packaging can be improved.",True
+REV000519,ORD000196,CUST000052,P0091,2026-05-25,4,"Great product, good packaging, and smooth ordering experience.",True
+REV000520,ORD000827,CUST000017,P0093,2026-05-02,3,"The product is fine, but packaging can be improved.",True
+REV000521,ORD000775,CUST000181,P0003,2026-05-16,2,Delivery was very late and customer support was slow.,False
+REV000522,ORD000676,CUST000165,P0027,2026-05-04,4,Perfect fit and very useful for training.,True
+REV000523,ORD000928,CUST000392,P0098,2026-05-06,2,Delivery was very late and customer support was slow.,False
+REV000524,ORD000181,CUST000027,P0009,2026-05-20,2,Poor quality and the item arrived damaged.,False
+REV000525,ORD001147,CUST000138,P0021,2026-05-16,5,The product quality is better than expected.,True
+REV000526,ORD000285,CUST000028,P0086,2026-05-13,1,Wrong item received and return process was difficult.,False
+REV000527,ORD000944,CUST000166,P0063,2026-05-14,5,"Great product, good packaging, and smooth ordering experience.",True
+REV000528,ORD000777,CUST000039,P0045,2026-05-15,3,It works as expected.,True
+REV000529,ORD000476,CUST000170,P0015,2026-05-22,3,It works as expected.,False
+REV000530,ORD000752,CUST000337,P0091,2026-05-27,2,Poor quality and the item arrived damaged.,False
+REV000531,ORD000319,CUST000284,P0081,2026-05-23,5,Perfect fit and very useful for training.,True
+REV000532,ORD000567,CUST000372,P0002,2026-05-16,4,"Great product, good packaging, and smooth ordering experience.",True
+REV000533,ORD001037,CUST000395,P0081,2026-05-22,5,Excellent quality and fast delivery. I highly recommend this product.,True
+REV000534,ORD001053,CUST000489,P0027,2026-05-17,3,"Average quality, not bad but not excellent.",True
+REV000535,ORD000022,CUST000263,P0045,2026-05-28,1,Payment failed twice and the order process was frustrating.,False
+REV000536,ORD000535,CUST000278,P0051,2026-05-08,3,"Good product, but the size guide was confusing.",False
+REV000537,ORD001186,CUST000113,P0024,2026-05-26,2,Wrong item received and return process was difficult.,False
+REV000538,ORD000918,CUST000490,P0076,2026-05-09,2,Delivery was very late and customer support was slow.,False
+REV000539,ORD000130,CUST000220,P0035,2026-05-04,3,"The product is fine, but packaging can be improved.",True
+REV000540,ORD001169,CUST000250,P0065,2026-05-17,5,The product quality is better than expected.,True
+REV000541,ORD000728,CUST000487,P0075,2026-05-16,4,The product quality is better than expected.,True
+REV000542,ORD001138,CUST000127,P0061,2026-05-22,1,Wrong item received and return process was difficult.,False
+REV000543,ORD000128,CUST000144,P0084,2026-05-25,2,Wrong item received and return process was difficult.,False
+REV000544,ORD000019,CUST000302,P0091,2026-05-02,4,The product quality is better than expected.,True
+REV000545,ORD001013,CUST000468,P0019,2026-05-30,4,Perfect fit and very useful for training.,True
+REV000546,ORD000400,CUST000338,P0006,2026-05-07,4,Perfect fit and very useful for training.,True
+REV000547,ORD000198,CUST000448,P0036,2026-05-13,3,"The product is fine, but packaging can be improved.",True
+REV000548,ORD000342,CUST000223,P0068,2026-05-27,5,"Great product, good packaging, and smooth ordering experience.",True
+REV000549,ORD000082,CUST000039,P0049,2026-05-21,3,"Product is okay, but delivery took a little longer.",True
+REV000550,ORD000279,CUST000380,P0015,2026-05-14,5,"Great product, good packaging, and smooth ordering experience.",True
+REV000551,ORD001001,CUST000218,P0095,2026-05-03,4,Perfect fit and very useful for training.,True
+REV000552,ORD000719,CUST000459,P0004,2026-05-13,1,Payment failed twice and the order process was frustrating.,False
+REV000553,ORD000219,CUST000338,P0080,2026-05-29,3,"The product is fine, but packaging can be improved.",True
+REV000554,ORD000989,CUST000386,P0052,2026-05-30,5,Perfect fit and very useful for training.,True
+REV000555,ORD000278,CUST000373,P0019,2026-05-05,3,"Good product, but the size guide was confusing.",True
+REV000556,ORD000827,CUST000017,P0009,2026-05-25,5,Very comfortable and worth the price. I will buy again.,True
+REV000557,ORD000217,CUST000401,P0098,2026-05-03,5,"Great product, good packaging, and smooth ordering experience.",True
+REV000558,ORD000693,CUST000458,P0025,2026-05-17,4,Excellent quality and fast delivery. I highly recommend this product.,True
+REV000559,ORD001070,CUST000083,P0055,2026-05-05,2,Poor quality and the item arrived damaged.,False
+REV000560,ORD000063,CUST000455,P0085,2026-05-05,4,Excellent quality and fast delivery. I highly recommend this product.,True
+REV000561,ORD000670,CUST000054,P0087,2026-05-26,3,It works as expected.,False
+REV000562,ORD000167,CUST000108,P0094,2026-05-18,4,Excellent quality and fast delivery. I highly recommend this product.,True
+REV000563,ORD001128,CUST000380,P0071,2026-05-28,4,"Great product, good packaging, and smooth ordering experience.",True
+REV000564,ORD000564,CUST000400,P0088,2026-05-09,5,Very comfortable and worth the price. I will buy again.,True
+REV000565,ORD000942,CUST000346,P0090,2026-05-24,5,Very comfortable and worth the price. I will buy again.,True
+REV000566,ORD000920,CUST000173,P0094,2026-05-30,3,"Good product, but the size guide was confusing.",True
+REV000567,ORD000459,CUST000149,P0015,2026-05-15,5,The product quality is better than expected.,True
+REV000568,ORD000292,CUST000231,P0019,2026-05-14,3,"Good product, but the size guide was confusing.",False
+REV000569,ORD001038,CUST000341,P0093,2026-05-16,4,The product quality is better than expected.,True
+REV000570,ORD000837,CUST000226,P0055,2026-05-17,4,Very comfortable and worth the price. I will buy again.,True
+REV000571,ORD000253,CUST000298,P0009,2026-05-25,2,The product is not worth the price.,False
+REV000572,ORD000071,CUST000495,P0060,2026-05-20,2,Wrong item received and return process was difficult.,False
+REV000573,ORD001118,CUST000104,P0086,2026-05-02,3,It works as expected.,True
+REV000574,ORD001102,CUST000472,P0029,2026-05-29,5,The product quality is better than expected.,True
+REV000575,ORD000925,CUST000292,P0100,2026-05-29,5,Perfect fit and very useful for training.,True
+REV000576,ORD000307,CUST000141,P0028,2026-05-05,5,Excellent quality and fast delivery. I highly recommend this product.,True
+REV000577,ORD001149,CUST000139,P0065,2026-05-28,3,It works as expected.,True
+REV000578,ORD000073,CUST000351,P0090,2026-05-12,5,Very comfortable and worth the price. I will buy again.,True
+REV000579,ORD000753,CUST000047,P0095,2026-05-25,3,"Product is okay, but delivery took a little longer.",True
+REV000580,ORD001152,CUST000389,P0011,2026-05-20,4,Excellent quality and fast delivery. I highly recommend this product.,True
+REV000581,ORD000778,CUST000353,P0054,2026-05-05,3,"Average quality, not bad but not excellent.",True
+REV000582,ORD000968,CUST000491,P0081,2026-05-24,3,"Good product, but the size guide was confusing.",True
+REV000583,ORD000950,CUST000430,P0015,2026-05-11,2,The product is not worth the price.,False
+REV000584,ORD000567,CUST000372,P0007,2026-05-05,4,Very comfortable and worth the price. I will buy again.,True
+REV000585,ORD000097,CUST000098,P0090,2026-05-05,5,Very comfortable and worth the price. I will buy again.,True
+REV000586,ORD000726,CUST000200,P0020,2026-05-14,1,The product is not worth the price.,False
+REV000587,ORD000097,CUST000098,P0018,2026-05-05,3,"The product is fine, but packaging can be improved.",False
+REV000588,ORD001099,CUST000069,P0056,2026-05-05,2,The product is not worth the price.,False
+REV000589,ORD000013,CUST000313,P0093,2026-05-03,1,Payment failed twice and the order process was frustrating.,False
+REV000590,ORD000567,CUST000372,P0049,2026-05-09,5,Excellent quality and fast delivery. I highly recommend this product.,True
+REV000591,ORD000053,CUST000172,P0015,2026-05-27,3,"Average quality, not bad but not excellent.",False
+REV000592,ORD000606,CUST000206,P0080,2026-05-23,5,Very comfortable and worth the price. I will buy again.,True
+REV000593,ORD000605,CUST000331,P0013,2026-05-01,4,"Great product, good packaging, and smooth ordering experience.",True
+REV000594,ORD000185,CUST000268,P0083,2026-05-26,5,Excellent quality and fast delivery. I highly recommend this product.,True
+REV000595,ORD000560,CUST000462,P0050,2026-05-11,5,The product quality is better than expected.,True
+REV000596,ORD001184,CUST000349,P0055,2026-05-16,3,"Average quality, not bad but not excellent.",True
+REV000597,ORD001100,CUST000177,P0061,2026-05-18,3,"Average quality, not bad but not excellent.",True
+REV000598,ORD000332,CUST000094,P0032,2026-05-04,5,Very comfortable and worth the price. I will buy again.,True
+REV000599,ORD001146,CUST000484,P0017,2026-05-04,1,Payment failed twice and the order process was frustrating.,False
+REV000600,ORD000867,CUST000289,P0058,2026-05-15,1,Wrong item received and return process was difficult.,False
+REV000601,ORD000585,CUST000382,P0040,2026-05-07,5,"Great product, good packaging, and smooth ordering experience.",True
+REV000602,ORD000481,CUST000193,P0080,2026-05-20,4,Excellent quality and fast delivery. I highly recommend this product.,True
+REV000603,ORD000301,CUST000111,P0059,2026-05-29,4,Perfect fit and very useful for training.,True
+REV000604,ORD000929,CUST000459,P0063,2026-05-17,4,Perfect fit and very useful for training.,True
+REV000605,ORD001194,CUST000474,P0079,2026-05-29,3,"The product is fine, but packaging can be improved.",True
+REV000606,ORD000223,CUST000016,P0088,2026-05-25,5,Perfect fit and very useful for training.,True
+REV000607,ORD001059,CUST000276,P0058,2026-05-21,5,Perfect fit and very useful for training.,True
+REV000608,ORD000050,CUST000274,P0090,2026-05-04,3,"Average quality, not bad but not excellent.",False
+REV000609,ORD000656,CUST000370,P0067,2026-05-02,5,Very comfortable and worth the price. I will buy again.,True
+REV000610,ORD000313,CUST000447,P0094,2026-05-05,3,It works as expected.,True
+REV000611,ORD000985,CUST000160,P0069,2026-05-28,4,The product quality is better than expected.,True
+REV000612,ORD000114,CUST000260,P0057,2026-05-16,2,Payment failed twice and the order process was frustrating.,False
+REV000613,ORD000917,CUST000363,P0020,2026-05-25,1,Wrong item received and return process was difficult.,False
+REV000614,ORD000764,CUST000252,P0035,2026-05-24,4,Very comfortable and worth the price. I will buy again.,True
+REV000615,ORD001065,CUST000028,P0042,2026-05-29,4,Excellent quality and fast delivery. I highly recommend this product.,True
+REV000616,ORD000721,CUST000229,P0030,2026-05-17,3,"Product is okay, but delivery took a little longer.",True
+REV000617,ORD000729,CUST000070,P0064,2026-05-23,1,Delivery was very late and customer support was slow.,False
+REV000618,ORD000778,CUST000353,P0060,2026-05-18,1,Delivery was very late and customer support was slow.,False
+REV000619,ORD000076,CUST000061,P0080,2026-05-21,4,Perfect fit and very useful for training.,True
+REV000620,ORD000527,CUST000438,P0023,2026-05-16,5,Very comfortable and worth the price. I will buy again.,True
+REV000621,ORD000697,CUST000289,P0023,2026-05-30,5,"Great product, good packaging, and smooth ordering experience.",True
+REV000622,ORD000628,CUST000271,P0093,2026-05-25,3,"The product is fine, but packaging can be improved.",True
+REV000623,ORD000876,CUST000439,P0099,2026-05-15,1,Delivery was very late and customer support was slow.,False
+REV000624,ORD001189,CUST000425,P0054,2026-05-17,4,Perfect fit and very useful for training.,True
+REV000625,ORD000967,CUST000388,P0001,2026-05-14,5,The product quality is better than expected.,True
+REV000626,ORD000438,CUST000196,P0036,2026-05-07,5,The product quality is better than expected.,True
+REV000627,ORD000508,CUST000185,P0030,2026-05-07,2,Delivery was very late and customer support was slow.,False
+REV000628,ORD000302,CUST000026,P0023,2026-05-19,3,"Product is okay, but delivery took a little longer.",True
+REV000629,ORD000574,CUST000440,P0070,2026-05-15,3,"The product is fine, but packaging can be improved.",False
+REV000630,ORD000745,CUST000164,P0048,2026-05-27,5,"Great product, good packaging, and smooth ordering experience.",True
+REV000631,ORD001073,CUST000193,P0072,2026-05-27,5,"Great product, good packaging, and smooth ordering experience.",True
+REV000632,ORD000521,CUST000105,P0093,2026-05-27,5,Excellent quality and fast delivery. I highly recommend this product.,True
+REV000633,ORD000106,CUST000494,P0041,2026-05-08,5,"Great product, good packaging, and smooth ordering experience.",True
+REV000634,ORD000472,CUST000408,P0020,2026-05-09,2,The product is not worth the price.,False
+REV000635,ORD001169,CUST000250,P0034,2026-05-05,1,Delivery was very late and customer support was slow.,False
+REV000636,ORD000234,CUST000392,P0066,2026-05-03,5,Very comfortable and worth the price. I will buy again.,True
+REV000637,ORD000057,CUST000208,P0002,2026-05-23,3,"Good product, but the size guide was confusing.",False
+REV000638,ORD000182,CUST000470,P0074,2026-05-18,3,"Good product, but the size guide was confusing.",False
+REV000639,ORD000674,CUST000402,P0013,2026-05-08,4,"Great product, good packaging, and smooth ordering experience.",True
+REV000640,ORD000152,CUST000389,P0028,2026-05-07,2,Delivery was very late and customer support was slow.,False
+REV000641,ORD000544,CUST000407,P0017,2026-05-17,3,"The product is fine, but packaging can be improved.",True
+REV000642,ORD000250,CUST000354,P0056,2026-05-26,5,The product quality is better than expected.,True
+REV000643,ORD000614,CUST000462,P0047,2026-05-27,3,"Product is okay, but delivery took a little longer.",True
+REV000644,ORD000586,CUST000220,P0001,2026-05-15,1,The product is not worth the price.,False
+REV000645,ORD000146,CUST000317,P0047,2026-05-14,4,The product quality is better than expected.,True
+REV000646,ORD000525,CUST000333,P0031,2026-05-20,3,"Product is okay, but delivery took a little longer.",False
+REV000647,ORD000022,CUST000263,P0082,2026-05-01,4,"Great product, good packaging, and smooth ordering experience.",True
+REV000648,ORD000809,CUST000229,P0056,2026-05-13,5,Excellent quality and fast delivery. I highly recommend this product.,True
+REV000649,ORD000969,CUST000110,P0096,2026-05-03,5,The product quality is better than expected.,True
+REV000650,ORD000226,CUST000344,P0040,2026-05-21,4,Perfect fit and very useful for training.,True
+REV000651,ORD000871,CUST000218,P0017,2026-05-10,4,Perfect fit and very useful for training.,True
+REV000652,ORD000500,CUST000373,P0016,2026-05-23,3,"Product is okay, but delivery took a little longer.",False
+REV000653,ORD001191,CUST000460,P0080,2026-05-22,5,Very comfortable and worth the price. I will buy again.,True
+REV000654,ORD000459,CUST000149,P0080,2026-05-16,5,Excellent quality and fast delivery. I highly recommend this product.,True
+REV000655,ORD000736,CUST000401,P0044,2026-05-12,5,The product quality is better than expected.,True
+REV000656,ORD000453,CUST000022,P0056,2026-05-09,2,Poor quality and the item arrived damaged.,False
+REV000657,ORD000850,CUST000292,P0035,2026-05-04,5,"Great product, good packaging, and smooth ordering experience.",True
+REV000658,ORD000564,CUST000400,P0096,2026-05-29,3,It works as expected.,False
+REV000659,ORD000659,CUST000350,P0044,2026-05-03,5,Excellent quality and fast delivery. I highly recommend this product.,True
+REV000660,ORD000917,CUST000363,P0023,2026-05-23,3,It works as expected.,True
+REV000661,ORD000450,CUST000038,P0096,2026-05-20,4,Perfect fit and very useful for training.,True
+REV000662,ORD001028,CUST000367,P0046,2026-05-06,3,"Product is okay, but delivery took a little longer.",False
+REV000663,ORD000927,CUST000153,P0049,2026-05-30,1,Payment failed twice and the order process was frustrating.,False
+REV000664,ORD000533,CUST000120,P0020,2026-05-14,5,Very comfortable and worth the price. I will buy again.,True
+REV000665,ORD000837,CUST000226,P0013,2026-05-05,3,It works as expected.,True
+REV000666,ORD000993,CUST000436,P0099,2026-05-12,3,"Product is okay, but delivery took a little longer.",True
+REV000667,ORD001004,CUST000444,P0004,2026-05-28,1,Payment failed twice and the order process was frustrating.,False
+REV000668,ORD000298,CUST000136,P0055,2026-05-18,5,"Great product, good packaging, and smooth ordering experience.",True
+REV000669,ORD000604,CUST000241,P0070,2026-05-24,2,Payment failed twice and the order process was frustrating.,False
+REV000670,ORD000072,CUST000451,P0016,2026-05-06,4,The product quality is better than expected.,True
+REV000671,ORD000075,CUST000381,P0018,2026-05-05,3,It works as expected.,True
+REV000672,ORD000929,CUST000459,P0005,2026-05-23,1,Wrong item received and return process was difficult.,False
+REV000673,ORD000970,CUST000317,P0078,2026-05-29,3,"Product is okay, but delivery took a little longer.",True
+REV000674,ORD000686,CUST000408,P0072,2026-05-09,5,"Great product, good packaging, and smooth ordering experience.",True
+REV000675,ORD001058,CUST000319,P0002,2026-05-12,5,Perfect fit and very useful for training.,True
+REV000676,ORD000307,CUST000141,P0072,2026-05-06,3,"The product is fine, but packaging can be improved.",True
+REV000677,ORD000424,CUST000211,P0054,2026-05-05,2,The product is not worth the price.,False
+REV000678,ORD000571,CUST000047,P0024,2026-05-13,4,Very comfortable and worth the price. I will buy again.,True
+REV000679,ORD000422,CUST000421,P0069,2026-05-13,4,Very comfortable and worth the price. I will buy again.,True
+REV000680,ORD000736,CUST000401,P0096,2026-05-26,3,"The product is fine, but packaging can be improved.",False
+REV000681,ORD001028,CUST000367,P0041,2026-05-14,1,The product is not worth the price.,False
+REV000682,ORD000627,CUST000439,P0051,2026-05-21,1,Payment failed twice and the order process was frustrating.,False
+REV000683,ORD000587,CUST000455,P0015,2026-05-25,5,Excellent quality and fast delivery. I highly recommend this product.,True
+REV000684,ORD000274,CUST000341,P0079,2026-05-08,3,"The product is fine, but packaging can be improved.",False
+REV000685,ORD000888,CUST000123,P0044,2026-05-03,5,Excellent quality and fast delivery. I highly recommend this product.,True
+REV000686,ORD000877,CUST000332,P0091,2026-05-05,3,"Product is okay, but delivery took a little longer.",False
+REV000687,ORD000411,CUST000204,P0049,2026-05-19,3,"Good product, but the size guide was confusing.",False
+REV000688,ORD000549,CUST000285,P0094,2026-05-19,3,"Good product, but the size guide was confusing.",False
+REV000689,ORD000395,CUST000482,P0046,2026-05-25,2,Payment failed twice and the order process was frustrating.,False
+REV000690,ORD000177,CUST000025,P0038,2026-05-24,4,Perfect fit and very useful for training.,True
+REV000691,ORD000894,CUST000236,P0077,2026-05-20,3,"Good product, but the size guide was confusing.",True
+REV000692,ORD000439,CUST000496,P0034,2026-05-16,5,Excellent quality and fast delivery. I highly recommend this product.,True
+REV000693,ORD000529,CUST000301,P0012,2026-05-25,3,It works as expected.,False
+REV000694,ORD000434,CUST000393,P0068,2026-05-24,5,Perfect fit and very useful for training.,True
+REV000695,ORD001167,CUST000307,P0040,2026-05-07,4,Excellent quality and fast delivery. I highly recommend this product.,True
+REV000696,ORD000042,CUST000127,P0056,2026-05-14,3,It works as expected.,False
+REV000697,ORD000425,CUST000096,P0001,2026-05-22,1,Delivery was very late and customer support was slow.,False
+REV000698,ORD000695,CUST000087,P0090,2026-05-12,4,"Great product, good packaging, and smooth ordering experience.",True
+REV000699,ORD000506,CUST000345,P0099,2026-05-24,4,Very comfortable and worth the price. I will buy again.,True
+REV000700,ORD000584,CUST000176,P0016,2026-05-29,1,Poor quality and the item arrived damaged.,False
+REV_BAD_001,ORD999999,CUST999999,P9999,2026-07-01,10,,False

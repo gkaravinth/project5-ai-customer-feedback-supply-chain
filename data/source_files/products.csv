@@ -1,0 +1,102 @@
+ProductID,SKU,ProductName,Category,SubCategory,Brand,SupplierID,UnitCost,RetailPrice,Currency,IsActive
+P0001,SKU-00001,NordRun Lifestyle Sneakers,Footwear,Lifestyle Sneakers,NordRun,SUP004,64.33,144.87,EUR,True
+P0002,SKU-00002,NordRun Training Shoes,Footwear,Training Shoes,NordRun,SUP001,13.08,29.1,EUR,True
+P0003,SKU-00003,PeakMotion Running Shoes,Footwear,Running Shoes,PeakMotion,SUP002,31.79,60.72,EUR,True
+P0004,SKU-00004,PeakMotion Running Shoes,Footwear,Running Shoes,PeakMotion,SUP005,82.47,176.41,EUR,True
+P0005,SKU-00005,EuroSport Training Shoes,Footwear,Training Shoes,EuroSport,SUP006,74.88,112.77,EUR,True
+P0006,SKU-00006,PeakMotion Running Shoes,Footwear,Running Shoes,PeakMotion,SUP008,83.68,138.79,EUR,True
+P0007,SKU-00007,PeakMotion Training Shoes,Footwear,Training Shoes,PeakMotion,SUP007,40.24,71.49,EUR,True
+P0008,SKU-00008,AdlerFit Running Shoes,Footwear,Running Shoes,AdlerFit,SUP006,22.78,36.13,EUR,True
+P0009,SKU-00009,PeakMotion Lifestyle Sneakers,Footwear,Lifestyle Sneakers,PeakMotion,SUP008,21.29,47.47,EUR,True
+P0010,SKU-00010,PeakMotion Training Shoes,Footwear,Training Shoes,PeakMotion,SUP002,12.5,32.29,EUR,True
+P0011,SKU-00011,PeakMotion Running Shoes,Footwear,Running Shoes,PeakMotion,SUP004,9.1,19.61,EUR,True
+P0012,SKU-00012,PeakMotion Lifestyle Sneakers,Footwear,Lifestyle Sneakers,PeakMotion,SUP007,60.48,117.8,EUR,True
+P0013,SKU-00013,PeakMotion Training Shoes,Footwear,Training Shoes,PeakMotion,SUP004,46.92,71.44,EUR,True
+P0014,SKU-00014,PeakMotion Lifestyle Sneakers,Footwear,Lifestyle Sneakers,PeakMotion,SUP008,7.16,12.88,EUR,True
+P0015,SKU-00015,EuroSport Training Shoes,Footwear,Training Shoes,EuroSport,SUP003,58.03,112.2,EUR,True
+P0016,SKU-00016,NordRun Lifestyle Sneakers,Footwear,Lifestyle Sneakers,NordRun,SUP002,77.27,161.33,EUR,True
+P0017,SKU-00017,PeakMotion Running Shoes,Footwear,Running Shoes,PeakMotion,SUP006,24.75,61.56,EUR,True
+P0018,SKU-00018,NordRun Lifestyle Sneakers,Footwear,Lifestyle Sneakers,NordRun,SUP001,78.8,150.9,EUR,True
+P0019,SKU-00019,EuroSport Training Shoes,Footwear,Training Shoes,EuroSport,SUP002,71.48,113.33,EUR,True
+P0020,SKU-00020,PeakMotion Running Shoes,Footwear,Running Shoes,PeakMotion,SUP006,79.86,173.97,EUR,True
+P0021,SKU-00021,EuroSport T-Shirt,Apparel,T-Shirt,EuroSport,SUP008,57.86,131.47,EUR,True
+P0022,SKU-00022,EuroSport Jacket,Apparel,Jacket,EuroSport,SUP005,43.84,70.65,EUR,True
+P0023,SKU-00023,UrbanAthlete Jacket,Apparel,Jacket,UrbanAthlete,SUP008,62.82,149.87,EUR,True
+P0024,SKU-00024,EuroSport Shorts,Apparel,Shorts,EuroSport,SUP004,8.44,21.59,EUR,True
+P0025,SKU-00025,EuroSport T-Shirt,Apparel,T-Shirt,EuroSport,SUP003,47.22,111.24,EUR,True
+P0026,SKU-00026,AdlerFit Jacket,Apparel,Jacket,AdlerFit,SUP002,24.8,40.63,EUR,True
+P0027,SKU-00027,NordRun Shorts,Apparel,Shorts,NordRun,SUP002,73.14,133.01,EUR,True
+P0028,SKU-00028,PeakMotion T-Shirt,Apparel,T-Shirt,PeakMotion,SUP006,65.95,104.91,EUR,True
+P0029,SKU-00029,AdlerFit Hoodie,Apparel,Hoodie,AdlerFit,SUP006,62.53,152.06,EUR,True
+P0030,SKU-00030,EuroSport Shorts,Apparel,Shorts,EuroSport,SUP004,22.44,34.08,EUR,True
+P0031,SKU-00031,NordRun Shorts,Apparel,Shorts,NordRun,SUP008,25.77,41.42,EUR,True
+P0032,SKU-00032,AdlerFit Jacket,Apparel,Jacket,AdlerFit,SUP007,62.13,96.44,EUR,True
+P0033,SKU-00033,EuroSport T-Shirt,Apparel,T-Shirt,EuroSport,SUP006,53.45,81.28,EUR,True
+P0034,SKU-00034,AdlerFit Shorts,Apparel,Shorts,AdlerFit,SUP001,80.96,118.58,EUR,True
+P0035,SKU-00035,EuroSport Shorts,Apparel,Shorts,EuroSport,SUP006,38.1,97.37,EUR,True
+P0036,SKU-00036,EuroSport Shorts,Apparel,Shorts,EuroSport,SUP001,11.11,21.34,EUR,True
+P0037,SKU-00037,PeakMotion T-Shirt,Apparel,T-Shirt,PeakMotion,SUP006,41.4,102.41,EUR,True
+P0038,SKU-00038,PeakMotion Shorts,Apparel,Shorts,PeakMotion,SUP006,7.42,17.33,EUR,True
+P0039,SKU-00039,UrbanAthlete T-Shirt,Apparel,T-Shirt,UrbanAthlete,SUP006,74.12,142.99,EUR,True
+P0040,SKU-00040,AdlerFit Shorts,Apparel,Shorts,AdlerFit,SUP001,15.16,27.38,EUR,True
+P0041,SKU-00041,EuroSport Water Bottle,Accessories,Water Bottle,EuroSport,SUP004,18.55,31.15,EUR,True
+P0042,SKU-00042,EuroSport Backpack,Accessories,Backpack,EuroSport,SUP001,12.07,31.1,EUR,True
+P0043,SKU-00043,NordRun Cap,Accessories,Cap,NordRun,SUP002,38.59,68.42,EUR,True
+P0044,SKU-00044,NordRun Water Bottle,Accessories,Water Bottle,NordRun,SUP001,70.75,136.57,EUR,True
+P0045,SKU-00045,AdlerFit Water Bottle,Accessories,Water Bottle,AdlerFit,SUP008,33.91,57.8,EUR,True
+P0046,SKU-00046,EuroSport Gym Bag,Accessories,Gym Bag,EuroSport,SUP008,40.63,92.22,EUR,True
+P0047,SKU-00047,PeakMotion Backpack,Accessories,Backpack,PeakMotion,SUP001,74.71,191.09,EUR,True
+P0048,SKU-00048,EuroSport Cap,Accessories,Cap,EuroSport,SUP006,35.94,51.56,EUR,True
+P0049,SKU-00049,PeakMotion Cap,Accessories,Cap,PeakMotion,SUP006,76.6,188.99,EUR,True
+P0050,SKU-00050,NordRun Water Bottle,Accessories,Water Bottle,NordRun,SUP001,34.01,79.22,EUR,True
+P0051,SKU-00051,AdlerFit Backpack,Accessories,Backpack,AdlerFit,SUP007,48.75,111.2,EUR,True
+P0052,SKU-00052,EuroSport Cap,Accessories,Cap,EuroSport,SUP002,47.79,86.55,EUR,True
+P0053,SKU-00053,EuroSport Water Bottle,Accessories,Water Bottle,EuroSport,SUP003,74.73,129.22,EUR,True
+P0054,SKU-00054,UrbanAthlete Water Bottle,Accessories,Water Bottle,UrbanAthlete,SUP006,55.89,94.23,EUR,True
+P0055,SKU-00055,UrbanAthlete Gym Bag,Accessories,Gym Bag,UrbanAthlete,SUP008,37.46,61.33,EUR,True
+P0056,SKU-00056,NordRun Gym Bag,Accessories,Gym Bag,NordRun,SUP001,31.45,66.57,EUR,True
+P0057,SKU-00057,AdlerFit Backpack,Accessories,Backpack,AdlerFit,SUP002,56.56,113.45,EUR,True
+P0058,SKU-00058,AdlerFit Backpack,Accessories,Backpack,AdlerFit,SUP008,9.77,17.55,EUR,True
+P0059,SKU-00059,AdlerFit Backpack,Accessories,Backpack,AdlerFit,SUP008,22.48,37.27,EUR,True
+P0060,SKU-00060,EuroSport Water Bottle,Accessories,Water Bottle,EuroSport,SUP007,31.64,72.63,EUR,True
+P0061,SKU-00061,UrbanAthlete Yoga Mat,Equipment,Yoga Mat,UrbanAthlete,SUP007,10.72,22.39,EUR,True
+P0062,SKU-00062,PeakMotion Dumbbell Set,Equipment,Dumbbell Set,PeakMotion,SUP001,57.6,112.08,EUR,True
+P0063,SKU-00063,NordRun Dumbbell Set,Equipment,Dumbbell Set,NordRun,SUP004,85.43,168.76,EUR,True
+P0064,SKU-00064,NordRun Yoga Mat,Equipment,Yoga Mat,NordRun,SUP002,74.17,153.17,EUR,True
+P0065,SKU-00065,PeakMotion Dumbbell Set,Equipment,Dumbbell Set,PeakMotion,SUP008,78.7,179.4,EUR,True
+P0066,SKU-00066,EuroSport Yoga Mat,Equipment,Yoga Mat,EuroSport,SUP005,76.06,174.67,EUR,True
+P0067,SKU-00067,PeakMotion Yoga Mat,Equipment,Yoga Mat,PeakMotion,SUP005,5.23,7.73,EUR,True
+P0068,SKU-00068,EuroSport Dumbbell Set,Equipment,Dumbbell Set,EuroSport,SUP006,54.73,99.69,EUR,True
+P0069,SKU-00069,AdlerFit Resistance Band,Equipment,Resistance Band,AdlerFit,SUP008,51.52,106.21,EUR,True
+P0070,SKU-00070,EuroSport Resistance Band,Equipment,Resistance Band,EuroSport,SUP003,38.85,69.32,EUR,True
+P0071,SKU-00071,EuroSport Yoga Mat,Equipment,Yoga Mat,EuroSport,SUP004,20.54,34.61,EUR,True
+P0072,SKU-00072,EuroSport Yoga Mat,Equipment,Yoga Mat,EuroSport,SUP004,15.14,24.01,EUR,True
+P0073,SKU-00073,EuroSport Dumbbell Set,Equipment,Dumbbell Set,EuroSport,SUP006,89.14,184.72,EUR,True
+P0074,SKU-00074,NordRun Dumbbell Set,Equipment,Dumbbell Set,NordRun,SUP003,39.01,97.13,EUR,True
+P0075,SKU-00075,AdlerFit Yoga Mat,Equipment,Yoga Mat,AdlerFit,SUP004,58.0,127.46,EUR,True
+P0076,SKU-00076,NordRun Dumbbell Set,Equipment,Dumbbell Set,NordRun,SUP001,74.21,113.02,EUR,True
+P0077,SKU-00077,PeakMotion Resistance Band,Equipment,Resistance Band,PeakMotion,SUP003,46.9,90.68,EUR,True
+P0078,SKU-00078,NordRun Dumbbell Set,Equipment,Dumbbell Set,NordRun,SUP004,88.26,169.69,EUR,True
+P0079,SKU-00079,NordRun Dumbbell Set,Equipment,Dumbbell Set,NordRun,SUP005,77.59,139.87,EUR,True
+P0080,SKU-00080,PeakMotion Resistance Band,Equipment,Resistance Band,PeakMotion,SUP006,31.57,46.24,EUR,True
+P0081,SKU-00081,AdlerFit Kids T-Shirt,Kidswear,Kids T-Shirt,AdlerFit,SUP008,33.97,59.0,EUR,True
+P0082,SKU-00082,PeakMotion Kids Shoes,Kidswear,Kids Shoes,PeakMotion,SUP006,17.43,44.76,EUR,True
+P0083,SKU-00083,AdlerFit Kids T-Shirt,Kidswear,Kids T-Shirt,AdlerFit,SUP002,16.79,25.24,EUR,True
+P0084,SKU-00084,AdlerFit Kids T-Shirt,Kidswear,Kids T-Shirt,AdlerFit,SUP004,47.75,105.27,EUR,True
+P0085,SKU-00085,NordRun Kids Shoes,Kidswear,Kids Shoes,NordRun,SUP001,36.62,78.24,EUR,True
+P0086,SKU-00086,UrbanAthlete Kids Shoes,Kidswear,Kids Shoes,UrbanAthlete,SUP001,14.61,31.04,EUR,True
+P0087,SKU-00087,PeakMotion Kids Shoes,Kidswear,Kids Shoes,PeakMotion,SUP007,58.9,83.61,EUR,True
+P0088,SKU-00088,PeakMotion Kids Hoodie,Kidswear,Kids Hoodie,PeakMotion,SUP006,61.85,149.11,EUR,True
+P0089,SKU-00089,EuroSport Kids T-Shirt,Kidswear,Kids T-Shirt,EuroSport,SUP006,20.06,32.38,EUR,True
+P0090,SKU-00090,PeakMotion Kids Hoodie,Kidswear,Kids Hoodie,PeakMotion,SUP008,60.41,155.64,EUR,True
+P0091,SKU-00091,PeakMotion Kids T-Shirt,Kidswear,Kids T-Shirt,PeakMotion,SUP006,16.05,38.31,EUR,True
+P0092,SKU-00092,NordRun Kids Hoodie,Kidswear,Kids Hoodie,NordRun,SUP002,61.06,133.23,EUR,True
+P0093,SKU-00093,UrbanAthlete Kids T-Shirt,Kidswear,Kids T-Shirt,UrbanAthlete,SUP005,19.19,30.0,EUR,True
+P0094,SKU-00094,AdlerFit Kids Shoes,Kidswear,Kids Shoes,AdlerFit,SUP004,88.95,188.21,EUR,True
+P0095,SKU-00095,PeakMotion Kids Shoes,Kidswear,Kids Shoes,PeakMotion,SUP002,28.45,41.13,EUR,True
+P0096,SKU-00096,UrbanAthlete Kids T-Shirt,Kidswear,Kids T-Shirt,UrbanAthlete,SUP004,28.9,69.19,EUR,True
+P0097,SKU-00097,AdlerFit Kids Shoes,Kidswear,Kids Shoes,AdlerFit,SUP004,85.94,156.58,EUR,True
+P0098,SKU-00098,UrbanAthlete Kids T-Shirt,Kidswear,Kids T-Shirt,UrbanAthlete,SUP003,71.12,133.13,EUR,True
+P0099,SKU-00099,UrbanAthlete Kids T-Shirt,Kidswear,Kids T-Shirt,UrbanAthlete,SUP006,76.83,138.6,EUR,True
+P0100,SKU-00100,EuroSport Kids Hoodie,Kidswear,Kids Hoodie,EuroSport,SUP007,23.89,54.24,EUR,True
+,SKU-BAD-001,Invalid Missing Product,,Unknown,Unknown,SUP999,-20,10,USD,True

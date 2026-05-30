@@ -1,0 +1,502 @@
+TicketID,CustomerID,OrderID,TicketDate,IssueCategory,TicketText,Priority,Status,ResolutionTimeHours
+TIC000001,CUST000322,ORD001129,2026-05-06 18:52:53,Product Quality Issue,The product arrived damaged.,High,In Progress,
+TIC000002,CUST000338,ORD000219,2026-05-11 23:16:18,Wrong Item,The product code does not match my order.,Medium,Open,8
+TIC000003,CUST000146,ORD001154,2026-05-09 02:18:23,Payment Issue,Payment gateway timed out.,Medium,Closed,72
+TIC000004,CUST000054,ORD000670,2026-05-03 15:12:12,Delivery Issue,My order delivery is delayed.,Low,Closed,4
+TIC000005,CUST000170,ORD001168,2026-05-07 22:43:25,Login Issue,Password reset email is not arriving.,Medium,Open,2
+TIC000006,CUST000192,ORD000202,2026-05-13 15:35:05,Product Quality Issue,The item quality is poor.,Low,In Progress,8
+TIC000007,CUST000493,ORD000562,2026-05-26 09:46:33,Wrong Item,I received the wrong item.,Low,Open,2
+TIC000008,CUST000268,ORD000185,2026-05-17 09:58:42,Payment Issue,Payment gateway timed out.,Critical,Closed,72
+TIC000009,CUST000349,ORD000937,2026-05-16 16:59:20,Delivery Issue,Carrier has not updated shipment status.,Low,Resolved,4
+TIC000010,CUST000154,ORD000220,2026-05-16 12:03:56,Wrong Item,The color and size are different from what I ordered.,Medium,Closed,12
+TIC000011,CUST000009,ORD000272,2026-05-25 05:47:44,Delivery Issue,Tracking shows delivered but I did not receive the parcel.,Critical,Closed,8
+TIC000012,CUST000256,ORD000964,2026-05-06 18:43:10,Product Quality Issue,The item quality is poor.,Medium,Closed,2
+TIC000013,CUST000402,ORD000674,2026-05-11 21:39:23,Payment Issue,Payment failed during checkout.,High,Closed,2
+TIC000014,CUST000352,ORD000718,2026-05-27 06:17:11,Wrong Item,I received the wrong item.,Medium,In Progress,2
+TIC000015,CUST000164,ORD000951,2026-05-02 02:42:50,Delivery Issue,My order delivery is delayed.,Medium,In Progress,12
+TIC000016,CUST000114,ORD000763,2026-05-25 00:04:53,Payment Issue,Payment failed during checkout.,Critical,In Progress,
+TIC000017,CUST000304,ORD000416,2026-05-20 23:57:28,Refund Issue,Refund is delayed.,Low,Closed,8
+TIC000018,CUST000249,ORD000510,2026-05-29 22:17:42,Login Issue,My account is locked after multiple attempts.,High,Open,24
+TIC000019,CUST000307,ORD001167,2026-05-13 19:43:29,Delivery Issue,My order delivery is delayed.,Critical,Closed,48
+TIC000020,CUST000068,ORD000766,2026-05-10 08:08:22,Refund Issue,Refund is delayed.,Medium,In Progress,
+TIC000021,CUST000110,ORD000969,2026-05-15 11:57:28,Delivery Issue,Tracking shows delivered but I did not receive the parcel.,Critical,In Progress,48
+TIC000022,CUST000127,ORD000042,2026-05-15 05:39:58,Refund Issue,Refund amount is incorrect.,Low,Closed,2
+TIC000023,CUST000452,ORD000172,2026-05-28 15:15:56,Refund Issue,Refund is delayed.,Low,Closed,48
+TIC000024,CUST000064,ORD001174,2026-05-25 18:38:55,Product Quality Issue,The stitching came loose after first use.,Critical,Open,48
+TIC000025,CUST000038,ORD000498,2026-05-15 07:23:35,Login Issue,Password reset email is not arriving.,Low,Closed,4
+TIC000026,CUST000050,ORD001162,2026-05-06 07:09:45,Payment Issue,Payment gateway timed out.,High,Resolved,72
+TIC000027,CUST000150,ORD001005,2026-05-12 09:16:00,Refund Issue,Refund is delayed.,Medium,Open,8
+TIC000028,CUST000128,ORD000328,2026-05-23 02:55:03,Login Issue,My account is locked after multiple attempts.,High,In Progress,
+TIC000029,CUST000388,ORD000967,2026-05-24 16:55:57,Login Issue,I cannot login to my account.,Low,In Progress,
+TIC000030,CUST000173,ORD000920,2026-05-19 14:09:07,Login Issue,I cannot login to my account.,Medium,Open,2
+TIC000031,CUST000038,ORD000450,2026-05-17 06:26:12,Payment Issue,Payment failed during checkout.,Medium,Closed,12
+TIC000032,CUST000226,ORD000361,2026-05-04 07:43:13,Wrong Item,The color and size are different from what I ordered.,Medium,Closed,8
+TIC000033,CUST000017,ORD000651,2026-05-05 19:23:27,Refund Issue,Refund amount is incorrect.,High,Open,
+TIC000034,CUST000131,ORD000668,2026-05-30 23:37:15,Delivery Issue,Tracking shows delivered but I did not receive the parcel.,Medium,Resolved,72
+TIC000035,CUST000011,ORD001067,2026-05-04 17:24:54,Refund Issue,Refund amount is incorrect.,Medium,In Progress,24
+TIC000036,CUST000084,ORD000406,2026-05-22 00:35:29,Payment Issue,Payment failed during checkout.,Low,In Progress,2
+TIC000037,CUST000130,ORD001144,2026-05-20 11:45:53,Refund Issue,Refund amount is incorrect.,High,Resolved,4
+TIC000038,CUST000016,ORD000223,2026-05-19 05:28:45,Delivery Issue,Carrier has not updated shipment status.,Low,Closed,
+TIC000039,CUST000279,ORD000169,2026-05-25 13:43:20,Wrong Item,I received the wrong item.,Medium,In Progress,8
+TIC000040,CUST000474,ORD001183,2026-05-28 07:07:05,Refund Issue,Refund amount is incorrect.,Medium,Open,4
+TIC000041,CUST000094,ORD000847,2026-05-20 10:53:20,Wrong Item,I received the wrong item.,Low,Resolved,
+TIC000042,CUST000444,ORD000542,2026-05-29 02:44:44,Wrong Item,The color and size are different from what I ordered.,Low,Resolved,2
+TIC000043,CUST000033,ORD000122,2026-05-23 05:11:09,Login Issue,Password reset email is not arriving.,High,Open,
+TIC000044,CUST000441,ORD000690,2026-05-25 07:15:31,Delivery Issue,Carrier has not updated shipment status.,Medium,Resolved,24
+TIC000045,CUST000391,ORD000750,2026-05-13 11:32:34,Payment Issue,My card was charged but order was not created.,High,Resolved,2
+TIC000046,CUST000073,ORD000681,2026-05-24 20:30:26,Payment Issue,My card was charged but order was not created.,High,Open,24
+TIC000047,CUST000043,ORD000759,2026-05-28 03:09:29,Login Issue,I cannot login to my account.,Critical,In Progress,4
+TIC000048,CUST000416,ORD000147,2026-05-07 13:33:30,Payment Issue,Payment failed during checkout.,Medium,Closed,72
+TIC000049,CUST000361,ORD000579,2026-05-01 08:18:43,Product Quality Issue,The stitching came loose after first use.,Critical,Closed,
+TIC000050,CUST000094,ORD001114,2026-05-27 06:04:28,Delivery Issue,Carrier has not updated shipment status.,Critical,In Progress,8
+TIC000051,CUST000353,ORD000946,2026-05-05 20:46:44,Delivery Issue,Carrier has not updated shipment status.,Critical,In Progress,12
+TIC000052,CUST000124,ORD000615,2026-05-14 02:23:06,Wrong Item,The product code does not match my order.,Critical,In Progress,48
+TIC000053,CUST000236,ORD000048,2026-05-18 20:55:22,Wrong Item,The product code does not match my order.,Critical,In Progress,12
+TIC000054,CUST000227,ORD000448,2026-05-21 02:01:31,Wrong Item,The color and size are different from what I ordered.,Medium,In Progress,4
+TIC000055,CUST000481,ORD000324,2026-05-09 12:16:03,Payment Issue,Payment gateway timed out.,High,Resolved,
+TIC000056,CUST000370,ORD000036,2026-05-15 05:53:54,Refund Issue,I returned the item but refund is not processed.,Critical,Closed,24
+TIC000057,CUST000209,ORD000858,2026-05-24 16:00:40,Refund Issue,Refund amount is incorrect.,Critical,Open,12
+TIC000058,CUST000094,ORD000550,2026-05-02 18:17:07,Product Quality Issue,The stitching came loose after first use.,Critical,In Progress,24
+TIC000059,CUST000170,ORD000228,2026-05-06 15:41:06,Product Quality Issue,The item quality is poor.,High,Open,12
+TIC000060,CUST000164,ORD000745,2026-05-30 00:53:25,Login Issue,My account is locked after multiple attempts.,Medium,Open,24
+TIC000061,CUST000177,ORD001100,2026-05-28 19:11:18,Delivery Issue,Tracking shows delivered but I did not receive the parcel.,High,Open,72
+TIC000062,CUST000492,ORD000890,2026-05-26 02:12:53,Login Issue,I cannot login to my account.,High,Closed,24
+TIC000063,CUST000337,ORD000663,2026-05-18 13:55:33,Refund Issue,Refund is delayed.,High,In Progress,8
+TIC000064,CUST000192,ORD000133,2026-05-22 08:04:21,Wrong Item,The product code does not match my order.,High,Open,24
+TIC000065,CUST000444,ORD001004,2026-05-24 15:07:36,Wrong Item,The color and size are different from what I ordered.,Low,Closed,24
+TIC000066,CUST000017,ORD000827,2026-05-21 22:51:03,Payment Issue,Payment gateway timed out.,High,Resolved,24
+TIC000067,CUST000205,ORD000709,2026-05-18 13:16:45,Wrong Item,The product code does not match my order.,Medium,Closed,2
+TIC000068,CUST000238,ORD000580,2026-05-21 06:25:51,Login Issue,Password reset email is not arriving.,High,Open,24
+TIC000069,CUST000270,ORD000435,2026-05-28 13:26:22,Wrong Item,The product code does not match my order.,Critical,In Progress,4
+TIC000070,CUST000383,ORD000166,2026-05-07 21:17:20,Product Quality Issue,The stitching came loose after first use.,Critical,In Progress,2
+TIC000071,CUST000415,ORD000646,2026-05-11 02:25:01,Payment Issue,Payment gateway timed out.,Medium,Closed,12
+TIC000072,CUST000055,ORD000569,2026-05-22 14:15:53,Refund Issue,I returned the item but refund is not processed.,Low,Resolved,12
+TIC000073,CUST000026,ORD001041,2026-05-09 08:31:36,Payment Issue,My card was charged but order was not created.,Low,In Progress,12
+TIC000074,CUST000169,ORD000437,2026-05-16 18:54:23,Delivery Issue,Tracking shows delivered but I did not receive the parcel.,High,Resolved,2
+TIC000075,CUST000033,ORD000446,2026-05-13 07:47:58,Wrong Item,The color and size are different from what I ordered.,Low,In Progress,8
+TIC000076,CUST000055,ORD000875,2026-05-27 11:31:52,Product Quality Issue,The item quality is poor.,Low,Closed,
+TIC000077,CUST000004,ORD000016,2026-05-16 21:51:57,Wrong Item,The color and size are different from what I ordered.,High,In Progress,24
+TIC000078,CUST000056,ORD001137,2026-05-16 03:43:54,Payment Issue,Payment failed during checkout.,Medium,Closed,72
+TIC000079,CUST000219,ORD000731,2026-05-11 11:29:33,Refund Issue,Refund is delayed.,High,Closed,8
+TIC000080,CUST000147,ORD000035,2026-05-26 20:22:49,Refund Issue,I returned the item but refund is not processed.,Low,Closed,4
+TIC000081,CUST000453,ORD001024,2026-05-26 09:09:40,Payment Issue,My card was charged but order was not created.,High,Resolved,48
+TIC000082,CUST000191,ORD000118,2026-05-06 00:44:38,Payment Issue,My card was charged but order was not created.,Critical,Open,4
+TIC000083,CUST000128,ORD000328,2026-05-09 20:20:29,Login Issue,My account is locked after multiple attempts.,Critical,In Progress,
+TIC000084,CUST000101,ORD000023,2026-05-07 21:44:24,Product Quality Issue,The product arrived damaged.,Critical,Resolved,24
+TIC000085,CUST000411,ORD000353,2026-05-26 22:04:09,Wrong Item,The color and size are different from what I ordered.,Medium,In Progress,72
+TIC000086,CUST000450,ORD000636,2026-05-19 20:13:33,Wrong Item,The color and size are different from what I ordered.,Critical,In Progress,
+TIC000087,CUST000493,ORD001051,2026-05-07 01:53:59,Delivery Issue,Tracking shows delivered but I did not receive the parcel.,Critical,Closed,72
+TIC000088,CUST000357,ORD000375,2026-05-03 05:57:21,Wrong Item,I received the wrong item.,Medium,Resolved,12
+TIC000089,CUST000156,ORD000199,2026-05-27 20:11:56,Wrong Item,The color and size are different from what I ordered.,Low,Open,48
+TIC000090,CUST000222,ORD000248,2026-05-23 18:28:41,Delivery Issue,My order delivery is delayed.,Critical,Resolved,24
+TIC000091,CUST000196,ORD000070,2026-05-06 10:40:54,Product Quality Issue,The item quality is poor.,Medium,Resolved,48
+TIC000092,CUST000102,ORD000087,2026-05-19 16:12:43,Login Issue,My account is locked after multiple attempts.,Low,Resolved,2
+TIC000093,CUST000439,ORD000876,2026-05-25 03:14:22,Wrong Item,The product code does not match my order.,High,Resolved,2
+TIC000094,CUST000494,ORD000150,2026-05-03 09:27:53,Delivery Issue,Carrier has not updated shipment status.,High,Resolved,2
+TIC000095,CUST000297,ORD000758,2026-05-08 01:40:38,Product Quality Issue,The product arrived damaged.,Critical,In Progress,2
+TIC000096,CUST000265,ORD001080,2026-05-22 15:21:53,Delivery Issue,Carrier has not updated shipment status.,Medium,Open,48
+TIC000097,CUST000170,ORD000476,2026-05-19 13:53:52,Wrong Item,I received the wrong item.,Low,Closed,8
+TIC000098,CUST000141,ORD000559,2026-05-20 01:56:52,Payment Issue,My card was charged but order was not created.,Medium,Closed,
+TIC000099,CUST000157,ORD000154,2026-05-30 11:17:02,Login Issue,My account is locked after multiple attempts.,High,Resolved,72
+TIC000100,CUST000277,ORD000739,2026-05-14 08:24:08,Refund Issue,Refund amount is incorrect.,Low,Open,
+TIC000101,CUST000236,ORD000909,2026-05-06 19:33:50,Wrong Item,The color and size are different from what I ordered.,Critical,Closed,8
+TIC000102,CUST000141,ORD000559,2026-05-11 12:45:54,Payment Issue,My card was charged but order was not created.,Low,Closed,2
+TIC000103,CUST000400,ORD000564,2026-05-14 20:04:16,Wrong Item,The product code does not match my order.,Medium,Resolved,12
+TIC000104,CUST000039,ORD000394,2026-05-22 04:54:56,Delivery Issue,My order delivery is delayed.,Medium,Open,8
+TIC000105,CUST000343,ORD000388,2026-05-26 22:27:28,Payment Issue,My card was charged but order was not created.,Critical,Open,12
+TIC000106,CUST000406,ORD000632,2026-05-10 04:12:41,Wrong Item,The color and size are different from what I ordered.,Critical,Resolved,48
+TIC000107,CUST000038,ORD000354,2026-05-07 13:02:42,Wrong Item,I received the wrong item.,High,Open,24
+TIC000108,CUST000187,ORD000747,2026-05-23 05:05:33,Refund Issue,Refund amount is incorrect.,High,In Progress,72
+TIC000109,CUST000249,ORD000539,2026-05-11 01:58:56,Refund Issue,Refund is delayed.,High,Closed,
+TIC000110,CUST000315,ORD000002,2026-05-06 17:37:24,Refund Issue,Refund amount is incorrect.,Medium,Closed,12
+TIC000111,CUST000191,ORD000431,2026-05-27 10:01:57,Payment Issue,Payment gateway timed out.,High,Open,
+TIC000112,CUST000478,ORD000512,2026-05-18 21:51:49,Refund Issue,Refund is delayed.,Low,In Progress,12
+TIC000113,CUST000327,ORD001044,2026-05-23 15:37:42,Refund Issue,Refund amount is incorrect.,Medium,Open,48
+TIC000114,CUST000231,ORD000292,2026-05-01 09:30:20,Product Quality Issue,The product arrived damaged.,Critical,Open,72
+TIC000115,CUST000131,ORD000841,2026-05-24 05:41:25,Login Issue,My account is locked after multiple attempts.,Critical,Resolved,2
+TIC000116,CUST000014,ORD000765,2026-05-28 12:41:25,Product Quality Issue,The stitching came loose after first use.,Low,Closed,8
+TIC000117,CUST000439,ORD000627,2026-05-26 02:10:08,Payment Issue,Payment gateway timed out.,Medium,Closed,4
+TIC000118,CUST000378,ORD000708,2026-05-10 09:41:00,Wrong Item,The color and size are different from what I ordered.,Medium,Closed,72
+TIC000119,CUST000383,ORD000166,2026-05-03 22:55:08,Product Quality Issue,The stitching came loose after first use.,Critical,Resolved,48
+TIC000120,CUST000400,ORD000564,2026-05-21 10:04:37,Delivery Issue,Tracking shows delivered but I did not receive the parcel.,High,Resolved,24
+TIC000121,CUST000369,ORD000433,2026-05-12 11:33:50,Login Issue,My account is locked after multiple attempts.,Low,Open,24
+TIC000122,CUST000326,ORD000638,2026-05-13 23:59:08,Payment Issue,Payment gateway timed out.,Medium,In Progress,4
+TIC000123,CUST000158,ORD000107,2026-05-08 07:55:30,Refund Issue,Refund is delayed.,Medium,Resolved,8
+TIC000124,CUST000359,ORD000109,2026-05-07 08:04:14,Payment Issue,Payment failed during checkout.,Medium,Resolved,8
+TIC000125,CUST000350,ORD000659,2026-05-15 10:48:27,Login Issue,Password reset email is not arriving.,Low,Open,2
+TIC000126,CUST000138,ORD000641,2026-05-25 16:14:46,Refund Issue,Refund is delayed.,High,Open,48
+TIC000127,CUST000004,ORD000016,2026-05-14 03:45:32,Delivery Issue,Tracking shows delivered but I did not receive the parcel.,Low,In Progress,24
+TIC000128,CUST000050,ORD000314,2026-05-15 10:17:30,Login Issue,My account is locked after multiple attempts.,Critical,In Progress,24
+TIC000129,CUST000436,ORD000772,2026-05-16 16:22:33,Delivery Issue,My order delivery is delayed.,Medium,Closed,24
+TIC000130,CUST000036,ORD000702,2026-05-08 21:36:01,Refund Issue,Refund amount is incorrect.,Low,Resolved,48
+TIC000131,CUST000318,ORD000485,2026-05-22 19:42:12,Wrong Item,The product code does not match my order.,Low,Resolved,12
+TIC000132,CUST000043,ORD000123,2026-05-22 18:17:41,Product Quality Issue,The stitching came loose after first use.,High,Open,72
+TIC000133,CUST000409,ORD000598,2026-05-04 16:57:00,Payment Issue,Payment failed during checkout.,Critical,In Progress,8
+TIC000134,CUST000264,ORD000558,2026-05-29 04:00:49,Product Quality Issue,The product arrived damaged.,Medium,In Progress,72
+TIC000135,CUST000459,ORD000929,2026-05-14 17:44:28,Login Issue,My account is locked after multiple attempts.,High,Closed,48
+TIC000136,CUST000144,ORD000577,2026-05-28 17:56:43,Delivery Issue,My order delivery is delayed.,Medium,Resolved,2
+TIC000137,CUST000186,ORD000694,2026-05-18 09:25:14,Payment Issue,Payment failed during checkout.,Medium,Open,12
+TIC000138,CUST000225,ORD000826,2026-05-15 13:17:38,Refund Issue,Refund is delayed.,High,Closed,48
+TIC000139,CUST000459,ORD000781,2026-05-09 16:06:48,Wrong Item,The color and size are different from what I ordered.,Low,In Progress,8
+TIC000140,CUST000029,ORD000821,2026-05-25 06:12:13,Product Quality Issue,The stitching came loose after first use.,Medium,Closed,24
+TIC000141,CUST000364,ORD000833,2026-05-20 10:23:09,Delivery Issue,Tracking shows delivered but I did not receive the parcel.,High,Closed,
+TIC000142,CUST000383,ORD000009,2026-05-29 14:43:58,Refund Issue,Refund amount is incorrect.,High,Open,4
+TIC000143,CUST000080,ORD000705,2026-05-21 07:49:23,Payment Issue,Payment gateway timed out.,Medium,In Progress,
+TIC000144,CUST000498,ORD000936,2026-05-11 10:10:56,Payment Issue,Payment gateway timed out.,Critical,Resolved,4
+TIC000145,CUST000138,ORD000641,2026-05-08 21:42:45,Delivery Issue,Tracking shows delivered but I did not receive the parcel.,Critical,In Progress,72
+TIC000146,CUST000292,ORD001076,2026-05-07 00:08:01,Product Quality Issue,The product arrived damaged.,Medium,Open,2
+TIC000147,CUST000276,ORD000183,2026-05-04 04:30:17,Delivery Issue,Carrier has not updated shipment status.,Critical,Resolved,48
+TIC000148,CUST000457,ORD000268,2026-05-02 09:17:20,Payment Issue,Payment failed during checkout.,Low,In Progress,8
+TIC000149,CUST000152,ORD000650,2026-05-26 09:49:39,Wrong Item,I received the wrong item.,Critical,In Progress,72
+TIC000150,CUST000239,ORD001081,2026-05-12 02:09:04,Wrong Item,I received the wrong item.,High,In Progress,72
+TIC000151,CUST000227,ORD000448,2026-05-15 19:18:39,Delivery Issue,Tracking shows delivered but I did not receive the parcel.,Low,Resolved,
+TIC000152,CUST000379,ORD001083,2026-05-13 07:59:27,Payment Issue,Payment failed during checkout.,Medium,Closed,4
+TIC000153,CUST000310,ORD000619,2026-05-16 17:31:33,Refund Issue,Refund is delayed.,High,Resolved,2
+TIC000154,CUST000462,ORD000560,2026-05-09 03:06:19,Product Quality Issue,The item quality is poor.,Critical,Resolved,4
+TIC000155,CUST000067,ORD001177,2026-05-30 20:49:10,Product Quality Issue,The item quality is poor.,Low,Resolved,48
+TIC000156,CUST000241,ORD000519,2026-05-01 19:52:04,Product Quality Issue,The item quality is poor.,Low,Resolved,4
+TIC000157,CUST000166,ORD000497,2026-05-07 04:28:41,Payment Issue,Payment gateway timed out.,Medium,Resolved,12
+TIC000158,CUST000214,ORD001092,2026-05-23 22:34:34,Product Quality Issue,The stitching came loose after first use.,Low,Resolved,12
+TIC000159,CUST000372,ORD000567,2026-05-25 16:16:07,Login Issue,My account is locked after multiple attempts.,Low,In Progress,8
+TIC000160,CUST000144,ORD000128,2026-05-04 18:59:35,Refund Issue,Refund amount is incorrect.,Low,Closed,12
+TIC000161,CUST000341,ORD001038,2026-05-11 17:06:00,Refund Issue,Refund is delayed.,Critical,Closed,48
+TIC000162,CUST000141,ORD000240,2026-05-12 12:48:58,Refund Issue,Refund amount is incorrect.,High,In Progress,24
+TIC000163,CUST000277,ORD001122,2026-05-08 14:41:24,Wrong Item,I received the wrong item.,High,Open,8
+TIC000164,CUST000273,ORD000923,2026-05-03 05:14:31,Payment Issue,Payment gateway timed out.,Low,In Progress,48
+TIC000165,CUST000275,ORD000978,2026-05-25 03:20:07,Login Issue,My account is locked after multiple attempts.,Medium,In Progress,12
+TIC000166,CUST000481,ORD000178,2026-05-21 00:58:23,Delivery Issue,Carrier has not updated shipment status.,Low,Resolved,8
+TIC000167,CUST000276,ORD001059,2026-05-03 16:55:23,Product Quality Issue,The stitching came loose after first use.,High,In Progress,4
+TIC000168,CUST000025,ORD001036,2026-05-11 06:58:09,Login Issue,Password reset email is not arriving.,Medium,Open,48
+TIC000169,CUST000310,ORD000523,2026-05-11 02:52:50,Refund Issue,Refund is delayed.,Low,In Progress,8
+TIC000170,CUST000432,ORD000552,2026-05-29 23:14:22,Refund Issue,I returned the item but refund is not processed.,High,In Progress,
+TIC000171,CUST000416,ORD000689,2026-05-15 22:09:03,Delivery Issue,Tracking shows delivered but I did not receive the parcel.,High,Closed,48
+TIC000172,CUST000105,ORD000521,2026-05-04 01:41:32,Delivery Issue,Carrier has not updated shipment status.,High,Resolved,
+TIC000173,CUST000133,ORD000788,2026-05-27 00:09:10,Refund Issue,Refund is delayed.,Low,In Progress,8
+TIC000174,CUST000395,ORD001037,2026-05-13 03:58:28,Payment Issue,Payment failed during checkout.,Low,In Progress,48
+TIC000175,CUST000400,ORD000892,2026-05-24 19:12:20,Login Issue,My account is locked after multiple attempts.,Critical,Closed,72
+TIC000176,CUST000152,ORD000283,2026-05-08 21:36:23,Login Issue,I cannot login to my account.,High,Closed,4
+TIC000177,CUST000428,ORD001164,2026-05-05 09:54:32,Refund Issue,I returned the item but refund is not processed.,Low,Resolved,12
+TIC000178,CUST000212,ORD000347,2026-05-18 17:52:35,Login Issue,My account is locked after multiple attempts.,Medium,In Progress,48
+TIC000179,CUST000292,ORD000850,2026-05-20 22:40:29,Product Quality Issue,The stitching came loose after first use.,Critical,In Progress,24
+TIC000180,CUST000214,ORD000916,2026-05-10 22:27:11,Delivery Issue,My order delivery is delayed.,High,Closed,2
+TIC000181,CUST000120,ORD000533,2026-05-26 08:35:08,Payment Issue,Payment gateway timed out.,Critical,Open,8
+TIC000182,CUST000144,ORD000100,2026-05-17 14:43:49,Login Issue,I cannot login to my account.,Low,Closed,8
+TIC000183,CUST000232,ORD000977,2026-05-12 00:43:38,Login Issue,Password reset email is not arriving.,Low,Open,24
+TIC000184,CUST000351,ORD000723,2026-05-25 11:55:49,Delivery Issue,Carrier has not updated shipment status.,High,Resolved,12
+TIC000185,CUST000207,ORD000180,2026-05-01 22:16:11,Product Quality Issue,The product arrived damaged.,High,Closed,12
+TIC000186,CUST000493,ORD001155,2026-05-20 02:34:14,Product Quality Issue,The product arrived damaged.,Medium,Resolved,24
+TIC000187,CUST000154,ORD000220,2026-05-22 03:51:34,Payment Issue,Payment gateway timed out.,Critical,Closed,8
+TIC000188,CUST000354,ORD000810,2026-05-12 07:07:18,Product Quality Issue,The item quality is poor.,Critical,Closed,4
+TIC000189,CUST000142,ORD000933,2026-05-29 18:57:03,Refund Issue,Refund amount is incorrect.,Critical,Resolved,24
+TIC000190,CUST000228,ORD000141,2026-05-13 15:00:43,Wrong Item,The product code does not match my order.,Critical,Open,72
+TIC000191,CUST000158,ORD000107,2026-05-15 13:03:51,Login Issue,My account is locked after multiple attempts.,Medium,In Progress,4
+TIC000192,CUST000248,ORD001170,2026-05-04 01:53:16,Login Issue,Password reset email is not arriving.,Medium,In Progress,24
+TIC000193,CUST000379,ORD001193,2026-05-25 17:10:25,Refund Issue,Refund amount is incorrect.,Low,In Progress,48
+TIC000194,CUST000302,ORD000921,2026-05-14 15:34:04,Refund Issue,I returned the item but refund is not processed.,High,Open,12
+TIC000195,CUST000442,ORD001145,2026-05-08 05:15:11,Wrong Item,The color and size are different from what I ordered.,Critical,Open,12
+TIC000196,CUST000341,ORD001038,2026-05-20 19:38:28,Refund Issue,Refund amount is incorrect.,High,In Progress,24
+TIC000197,CUST000125,ORD000251,2026-05-11 22:44:28,Delivery Issue,Tracking shows delivered but I did not receive the parcel.,Medium,In Progress,72
+TIC000198,CUST000498,ORD000936,2026-05-30 07:40:14,Product Quality Issue,The item quality is poor.,Low,Open,
+TIC000199,CUST000028,ORD000139,2026-05-02 03:03:19,Refund Issue,Refund is delayed.,Critical,In Progress,2
+TIC000200,CUST000372,ORD000567,2026-05-10 03:11:13,Refund Issue,Refund is delayed.,Medium,Resolved,24
+TIC000201,CUST000096,ORD000760,2026-05-27 11:44:33,Refund Issue,I returned the item but refund is not processed.,Critical,Open,
+TIC000202,CUST000451,ORD000327,2026-05-30 22:08:54,Payment Issue,My card was charged but order was not created.,Low,Closed,8
+TIC000203,CUST000468,ORD000600,2026-05-17 20:16:35,Wrong Item,The product code does not match my order.,Critical,Closed,
+TIC000204,CUST000169,ORD000548,2026-05-18 13:19:45,Wrong Item,The color and size are different from what I ordered.,High,Closed,72
+TIC000205,CUST000221,ORD000205,2026-05-17 12:04:47,Login Issue,Password reset email is not arriving.,Critical,In Progress,24
+TIC000206,CUST000353,ORD000778,2026-05-09 12:16:24,Product Quality Issue,The stitching came loose after first use.,Medium,Closed,8
+TIC000207,CUST000209,ORD001072,2026-05-05 07:51:19,Product Quality Issue,The stitching came loose after first use.,Critical,Resolved,72
+TIC000208,CUST000392,ORD001032,2026-05-07 23:28:11,Product Quality Issue,The stitching came loose after first use.,High,Closed,48
+TIC000209,CUST000190,ORD000487,2026-05-14 17:22:24,Product Quality Issue,The stitching came loose after first use.,Medium,In Progress,8
+TIC000210,CUST000146,ORD000954,2026-05-29 09:43:37,Delivery Issue,Tracking shows delivered but I did not receive the parcel.,Critical,Resolved,2
+TIC000211,CUST000041,ORD000288,2026-05-01 05:24:10,Login Issue,My account is locked after multiple attempts.,Low,In Progress,12
+TIC000212,CUST000440,ORD000574,2026-05-15 14:50:23,Payment Issue,Payment failed during checkout.,Medium,Resolved,8
+TIC000213,CUST000275,ORD000418,2026-05-24 12:03:14,Payment Issue,Payment gateway timed out.,Low,Resolved,48
+TIC000214,CUST000292,ORD001076,2026-05-01 05:14:12,Payment Issue,Payment gateway timed out.,Critical,Closed,
+TIC000215,CUST000115,ORD000085,2026-05-11 16:40:53,Refund Issue,Refund is delayed.,Critical,In Progress,72
+TIC000216,CUST000438,ORD000188,2026-05-30 23:02:23,Wrong Item,The product code does not match my order.,Medium,In Progress,4
+TIC000217,CUST000458,ORD000693,2026-05-21 05:35:33,Refund Issue,Refund is delayed.,Medium,Open,
+TIC000218,CUST000020,ORD000714,2026-05-09 19:33:56,Delivery Issue,My order delivery is delayed.,Medium,Resolved,48
+TIC000219,CUST000280,ORD000346,2026-05-05 18:21:37,Product Quality Issue,The item quality is poor.,Critical,In Progress,2
+TIC000220,CUST000466,ORD000304,2026-05-02 08:44:57,Refund Issue,I returned the item but refund is not processed.,Low,Closed,2
+TIC000221,CUST000007,ORD001163,2026-05-30 09:00:21,Delivery Issue,Tracking shows delivered but I did not receive the parcel.,Low,Resolved,2
+TIC000222,CUST000275,ORD000458,2026-05-16 18:27:26,Payment Issue,My card was charged but order was not created.,Medium,In Progress,12
+TIC000223,CUST000464,ORD000866,2026-05-18 17:22:07,Login Issue,Password reset email is not arriving.,Low,Resolved,8
+TIC000224,CUST000284,ORD000319,2026-05-19 04:11:16,Refund Issue,I returned the item but refund is not processed.,Low,Closed,4
+TIC000225,CUST000104,ORD001141,2026-05-29 15:53:13,Payment Issue,My card was charged but order was not created.,Critical,Resolved,24
+TIC000226,CUST000492,ORD001103,2026-05-26 19:07:23,Login Issue,My account is locked after multiple attempts.,Low,Resolved,
+TIC000227,CUST000178,ORD000657,2026-05-02 01:42:28,Login Issue,Password reset email is not arriving.,High,Open,4
+TIC000228,CUST000154,ORD000573,2026-05-26 22:50:32,Wrong Item,I received the wrong item.,Low,Closed,48
+TIC000229,CUST000205,ORD000839,2026-05-24 19:19:10,Wrong Item,I received the wrong item.,High,In Progress,8
+TIC000230,CUST000437,ORD000511,2026-05-10 22:48:53,Wrong Item,I received the wrong item.,Critical,Closed,4
+TIC000231,CUST000279,ORD001199,2026-05-14 06:57:02,Delivery Issue,Tracking shows delivered but I did not receive the parcel.,Critical,In Progress,
+TIC000232,CUST000478,ORD000512,2026-05-12 00:58:57,Login Issue,I cannot login to my account.,Low,Open,2
+TIC000233,CUST000080,ORD000705,2026-05-17 09:33:20,Payment Issue,Payment failed during checkout.,Critical,Closed,2
+TIC000234,CUST000463,ORD000158,2026-05-25 04:03:42,Login Issue,I cannot login to my account.,Medium,Resolved,48
+TIC000235,CUST000210,ORD001074,2026-05-16 02:09:29,Payment Issue,Payment failed during checkout.,Medium,Open,24
+TIC000236,CUST000109,ORD000648,2026-05-14 10:19:45,Payment Issue,Payment gateway timed out.,Medium,Resolved,
+TIC000237,CUST000392,ORD001032,2026-05-10 06:33:47,Login Issue,My account is locked after multiple attempts.,Critical,Closed,4
+TIC000238,CUST000058,ORD000006,2026-05-09 02:04:47,Delivery Issue,My order delivery is delayed.,Medium,Closed,2
+TIC000239,CUST000265,ORD000649,2026-05-07 20:14:11,Payment Issue,Payment failed during checkout.,High,Open,48
+TIC000240,CUST000001,ORD000849,2026-05-07 19:32:37,Login Issue,Password reset email is not arriving.,Critical,Closed,
+TIC000241,CUST000316,ORD000157,2026-05-15 22:12:47,Login Issue,I cannot login to my account.,Medium,Open,24
+TIC000242,CUST000356,ORD001062,2026-05-30 02:36:48,Refund Issue,I returned the item but refund is not processed.,High,Closed,2
+TIC000243,CUST000069,ORD000286,2026-05-08 18:44:43,Login Issue,I cannot login to my account.,Critical,In Progress,4
+TIC000244,CUST000270,ORD000435,2026-05-10 14:16:34,Refund Issue,Refund amount is incorrect.,High,In Progress,24
+TIC000245,CUST000482,ORD001016,2026-05-17 20:21:47,Payment Issue,Payment failed during checkout.,Medium,Open,72
+TIC000246,CUST000057,ORD000381,2026-05-30 15:28:54,Product Quality Issue,The product arrived damaged.,High,Resolved,72
+TIC000247,CUST000037,ORD000740,2026-05-08 01:38:43,Delivery Issue,Carrier has not updated shipment status.,Critical,Open,24
+TIC000248,CUST000300,ORD000065,2026-05-04 11:18:54,Wrong Item,The product code does not match my order.,Critical,Resolved,24
+TIC000249,CUST000403,ORD000441,2026-05-14 15:34:28,Wrong Item,The product code does not match my order.,High,In Progress,24
+TIC000250,CUST000301,ORD000853,2026-05-23 03:41:04,Refund Issue,I returned the item but refund is not processed.,Low,Closed,24
+TIC000251,CUST000232,ORD001188,2026-05-27 22:12:44,Refund Issue,I returned the item but refund is not processed.,Critical,Resolved,48
+TIC000252,CUST000039,ORD000369,2026-05-18 11:58:17,Refund Issue,Refund amount is incorrect.,High,Open,12
+TIC000253,CUST000470,ORD000840,2026-05-22 21:11:22,Refund Issue,Refund amount is incorrect.,Critical,Open,24
+TIC000254,CUST000444,ORD000542,2026-05-21 12:48:15,Wrong Item,I received the wrong item.,Low,In Progress,2
+TIC000255,CUST000080,ORD000705,2026-05-04 12:17:34,Payment Issue,My card was charged but order was not created.,Critical,Closed,72
+TIC000256,CUST000017,ORD000051,2026-05-06 03:28:40,Product Quality Issue,The product arrived damaged.,Critical,Resolved,8
+TIC000257,CUST000497,ORD000120,2026-05-14 12:58:59,Product Quality Issue,The product arrived damaged.,Critical,In Progress,72
+TIC000258,CUST000037,ORD001180,2026-05-12 18:39:54,Delivery Issue,Tracking shows delivered but I did not receive the parcel.,High,Closed,
+TIC000259,CUST000057,ORD000381,2026-05-10 22:24:27,Wrong Item,I received the wrong item.,Critical,In Progress,48
+TIC000260,CUST000038,ORD000354,2026-05-06 02:23:18,Delivery Issue,Tracking shows delivered but I did not receive the parcel.,High,Open,72
+TIC000261,CUST000227,ORD000836,2026-05-15 23:12:47,Refund Issue,Refund amount is incorrect.,Low,In Progress,12
+TIC000262,CUST000235,ORD000349,2026-05-13 07:38:14,Wrong Item,I received the wrong item.,Low,Open,72
+TIC000263,CUST000102,ORD000058,2026-05-03 01:35:33,Login Issue,My account is locked after multiple attempts.,Critical,In Progress,4
+TIC000264,CUST000150,ORD000010,2026-05-26 09:30:45,Delivery Issue,Tracking shows delivered but I did not receive the parcel.,High,In Progress,72
+TIC000265,CUST000331,ORD000153,2026-05-23 18:19:18,Payment Issue,My card was charged but order was not created.,Critical,Open,12
+TIC000266,CUST000338,ORD000219,2026-05-13 08:12:06,Product Quality Issue,The product arrived damaged.,High,Open,
+TIC000267,CUST000095,ORD000262,2026-05-19 09:46:02,Product Quality Issue,The product arrived damaged.,Medium,Closed,48
+TIC000268,CUST000127,ORD001138,2026-05-03 07:48:33,Wrong Item,The color and size are different from what I ordered.,Critical,In Progress,
+TIC000269,CUST000179,ORD000915,2026-05-12 16:13:39,Wrong Item,The color and size are different from what I ordered.,Medium,Closed,48
+TIC000270,CUST000433,ORD000997,2026-05-03 06:50:19,Login Issue,I cannot login to my account.,Low,Resolved,24
+TIC000271,CUST000452,ORD000172,2026-05-23 06:41:12,Delivery Issue,Carrier has not updated shipment status.,Medium,Open,4
+TIC000272,CUST000042,ORD000966,2026-05-08 23:06:05,Product Quality Issue,The product arrived damaged.,Medium,In Progress,48
+TIC000273,CUST000335,ORD000038,2026-05-30 19:16:44,Login Issue,Password reset email is not arriving.,Medium,Open,
+TIC000274,CUST000267,ORD001008,2026-05-07 01:04:49,Delivery Issue,Carrier has not updated shipment status.,Critical,In Progress,72
+TIC000275,CUST000111,ORD000611,2026-05-22 11:07:21,Wrong Item,The color and size are different from what I ordered.,Critical,Resolved,12
+TIC000276,CUST000122,ORD000066,2026-05-13 20:48:04,Login Issue,Password reset email is not arriving.,High,Resolved,48
+TIC000277,CUST000485,ORD000599,2026-05-07 03:56:05,Login Issue,My account is locked after multiple attempts.,Medium,In Progress,8
+TIC000278,CUST000396,ORD000570,2026-05-09 06:29:26,Login Issue,My account is locked after multiple attempts.,Low,Closed,2
+TIC000279,CUST000383,ORD000009,2026-05-18 11:39:48,Wrong Item,I received the wrong item.,High,In Progress,12
+TIC000280,CUST000397,ORD000799,2026-05-10 15:06:42,Login Issue,My account is locked after multiple attempts.,Critical,Open,4
+TIC000281,CUST000001,ORD000899,2026-05-30 03:25:25,Refund Issue,I returned the item but refund is not processed.,High,Resolved,2
+TIC000282,CUST000277,ORD001122,2026-05-08 17:15:57,Wrong Item,The product code does not match my order.,Medium,Resolved,8
+TIC000283,CUST000282,ORD000829,2026-05-08 18:39:59,Refund Issue,Refund amount is incorrect.,Medium,In Progress,
+TIC000284,CUST000046,ORD000517,2026-05-29 15:48:48,Delivery Issue,Carrier has not updated shipment status.,High,Open,
+TIC000285,CUST000496,ORD000490,2026-05-28 01:39:00,Payment Issue,Payment gateway timed out.,Medium,In Progress,2
+TIC000286,CUST000101,ORD000023,2026-05-11 14:31:02,Refund Issue,I returned the item but refund is not processed.,Critical,Open,72
+TIC000287,CUST000358,ORD000609,2026-05-01 16:28:42,Product Quality Issue,The item quality is poor.,High,In Progress,2
+TIC000288,CUST000054,ORD000041,2026-05-27 17:29:19,Delivery Issue,My order delivery is delayed.,Medium,Resolved,2
+TIC000289,CUST000160,ORD000412,2026-05-21 05:19:46,Login Issue,I cannot login to my account.,Critical,Resolved,24
+TIC000290,CUST000495,ORD000794,2026-05-29 15:15:50,Product Quality Issue,The item quality is poor.,Medium,In Progress,4
+TIC000291,CUST000343,ORD000096,2026-05-04 02:44:02,Payment Issue,Payment failed during checkout.,High,Closed,4
+TIC000292,CUST000260,ORD000114,2026-05-03 01:12:01,Refund Issue,I returned the item but refund is not processed.,High,Resolved,2
+TIC000293,CUST000448,ORD000198,2026-05-17 05:01:01,Payment Issue,Payment gateway timed out.,Low,Open,
+TIC000294,CUST000207,ORD000241,2026-05-26 02:18:44,Product Quality Issue,The item quality is poor.,High,Resolved,24
+TIC000295,CUST000123,ORD000246,2026-05-01 00:06:01,Product Quality Issue,The item quality is poor.,Critical,Open,12
+TIC000296,CUST000276,ORD000183,2026-05-07 02:56:45,Refund Issue,Refund is delayed.,Medium,Closed,4
+TIC000297,CUST000341,ORD001038,2026-05-16 21:21:14,Product Quality Issue,The product arrived damaged.,Critical,Closed,72
+TIC000298,CUST000101,ORD000023,2026-05-21 07:58:04,Delivery Issue,My order delivery is delayed.,Critical,Resolved,
+TIC000299,CUST000007,ORD000323,2026-05-03 21:39:09,Payment Issue,Payment failed during checkout.,Medium,Resolved,24
+TIC000300,CUST000470,ORD000840,2026-05-14 12:47:02,Refund Issue,I returned the item but refund is not processed.,High,Resolved,4
+TIC000301,CUST000462,ORD000502,2026-05-07 14:11:20,Payment Issue,My card was charged but order was not created.,High,Resolved,72
+TIC000302,CUST000408,ORD000472,2026-05-21 11:10:34,Login Issue,Password reset email is not arriving.,Critical,In Progress,
+TIC000303,CUST000333,ORD000175,2026-05-15 22:47:10,Wrong Item,The color and size are different from what I ordered.,Medium,Resolved,8
+TIC000304,CUST000066,ORD000218,2026-05-06 11:18:37,Login Issue,Password reset email is not arriving.,Low,Closed,24
+TIC000305,CUST000218,ORD001031,2026-05-20 00:53:07,Payment Issue,Payment gateway timed out.,Critical,Closed,2
+TIC000306,CUST000316,ORD000658,2026-05-06 15:17:57,Payment Issue,Payment gateway timed out.,High,Closed,24
+TIC000307,CUST000396,ORD001020,2026-05-16 00:06:46,Payment Issue,Payment failed during checkout.,Low,In Progress,4
+TIC000308,CUST000207,ORD000241,2026-05-17 22:57:51,Payment Issue,Payment failed during checkout.,High,In Progress,72
+TIC000309,CUST000195,ORD001108,2026-05-08 14:36:32,Wrong Item,The product code does not match my order.,High,Open,24
+TIC000310,CUST000232,ORD001088,2026-05-02 04:47:19,Refund Issue,Refund amount is incorrect.,High,In Progress,12
+TIC000311,CUST000184,ORD000249,2026-05-03 08:01:32,Refund Issue,Refund is delayed.,High,Resolved,24
+TIC000312,CUST000174,ORD000514,2026-05-19 22:02:40,Refund Issue,I returned the item but refund is not processed.,Medium,In Progress,72
+TIC000313,CUST000482,ORD000395,2026-05-28 20:31:13,Delivery Issue,My order delivery is delayed.,High,Open,8
+TIC000314,CUST000276,ORD000183,2026-05-20 19:06:02,Delivery Issue,Carrier has not updated shipment status.,High,Open,4
+TIC000315,CUST000121,ORD000633,2026-05-26 15:56:35,Refund Issue,Refund amount is incorrect.,High,In Progress,72
+TIC000316,CUST000447,ORD000190,2026-05-23 18:50:39,Product Quality Issue,The stitching came loose after first use.,High,In Progress,24
+TIC000317,CUST000203,ORD000534,2026-05-20 06:33:08,Refund Issue,I returned the item but refund is not processed.,Medium,Resolved,2
+TIC000318,CUST000296,ORD000897,2026-05-01 13:51:57,Login Issue,My account is locked after multiple attempts.,Low,Closed,48
+TIC000319,CUST000029,ORD000821,2026-05-29 19:11:34,Refund Issue,Refund amount is incorrect.,Critical,Open,72
+TIC000320,CUST000450,ORD000636,2026-05-22 10:43:51,Refund Issue,Refund amount is incorrect.,Medium,In Progress,12
+TIC000321,CUST000314,ORD000004,2026-05-29 06:49:04,Product Quality Issue,The stitching came loose after first use.,Low,Resolved,8
+TIC000322,CUST000061,ORD000076,2026-05-12 21:34:01,Delivery Issue,Carrier has not updated shipment status.,High,Open,12
+TIC000323,CUST000146,ORD000603,2026-05-01 07:43:05,Payment Issue,Payment failed during checkout.,High,Closed,2
+TIC000324,CUST000321,ORD000807,2026-05-14 07:19:42,Payment Issue,Payment failed during checkout.,Critical,In Progress,4
+TIC000325,CUST000358,ORD000738,2026-05-24 19:02:34,Login Issue,I cannot login to my account.,High,Resolved,4
+TIC000326,CUST000416,ORD000147,2026-05-22 03:33:46,Delivery Issue,Carrier has not updated shipment status.,High,Resolved,4
+TIC000327,CUST000195,ORD000303,2026-05-08 23:20:04,Login Issue,My account is locked after multiple attempts.,Medium,In Progress,48
+TIC000328,CUST000254,ORD000430,2026-05-12 17:31:19,Product Quality Issue,The stitching came loose after first use.,Low,In Progress,2
+TIC000329,CUST000225,ORD000116,2026-05-02 15:45:37,Payment Issue,Payment gateway timed out.,High,Resolved,
+TIC000330,CUST000020,ORD000403,2026-05-26 04:35:10,Wrong Item,I received the wrong item.,High,Open,2
+TIC000331,CUST000086,ORD000557,2026-05-24 15:37:05,Delivery Issue,My order delivery is delayed.,Medium,In Progress,
+TIC000332,CUST000452,ORD000252,2026-05-10 21:28:12,Delivery Issue,My order delivery is delayed.,Low,In Progress,8
+TIC000333,CUST000145,ORD000779,2026-05-18 05:16:39,Wrong Item,The product code does not match my order.,Medium,Resolved,48
+TIC000334,CUST000331,ORD000688,2026-05-17 15:45:22,Login Issue,My account is locked after multiple attempts.,Critical,Resolved,48
+TIC000335,CUST000353,ORD000946,2026-05-17 20:48:15,Product Quality Issue,The item quality is poor.,Low,In Progress,4
+TIC000336,CUST000377,ORD000379,2026-05-03 07:30:04,Refund Issue,Refund is delayed.,Low,Open,2
+TIC000337,CUST000421,ORD000851,2026-05-13 13:15:55,Login Issue,My account is locked after multiple attempts.,Medium,Open,72
+TIC000338,CUST000132,ORD000855,2026-05-17 04:38:00,Login Issue,I cannot login to my account.,Critical,Closed,
+TIC000339,CUST000039,ORD000394,2026-05-06 07:45:44,Payment Issue,Payment failed during checkout.,Medium,In Progress,72
+TIC000340,CUST000499,ORD000432,2026-05-01 04:52:07,Wrong Item,I received the wrong item.,Low,Resolved,48
+TIC000341,CUST000498,ORD000936,2026-05-24 15:08:09,Delivery Issue,Carrier has not updated shipment status.,High,In Progress,
+TIC000342,CUST000353,ORD000778,2026-05-20 09:57:36,Refund Issue,I returned the item but refund is not processed.,Critical,Open,2
+TIC000343,CUST000337,ORD000663,2026-05-02 07:05:43,Payment Issue,My card was charged but order was not created.,Low,Closed,8
+TIC000344,CUST000127,ORD001138,2026-05-29 21:23:55,Refund Issue,I returned the item but refund is not processed.,High,Resolved,48
+TIC000345,CUST000043,ORD000123,2026-05-07 06:35:10,Payment Issue,Payment failed during checkout.,High,Resolved,4
+TIC000346,CUST000239,ORD000813,2026-05-27 22:13:35,Login Issue,Password reset email is not arriving.,Medium,Open,
+TIC000347,CUST000012,ORD001133,2026-05-25 14:12:50,Wrong Item,I received the wrong item.,Medium,In Progress,24
+TIC000348,CUST000130,ORD001144,2026-05-05 01:25:53,Login Issue,Password reset email is not arriving.,Low,Closed,48
+TIC000349,CUST000098,ORD000834,2026-05-14 11:55:35,Login Issue,My account is locked after multiple attempts.,Low,In Progress,48
+TIC000350,CUST000170,ORD000228,2026-05-13 06:56:47,Payment Issue,Payment failed during checkout.,High,Closed,72
+TIC000351,CUST000269,ORD000461,2026-05-14 03:48:19,Refund Issue,I returned the item but refund is not processed.,Medium,Closed,4
+TIC000352,CUST000259,ORD001026,2026-05-09 02:53:41,Login Issue,My account is locked after multiple attempts.,High,In Progress,
+TIC000353,CUST000089,ORD000207,2026-05-11 16:05:27,Wrong Item,The color and size are different from what I ordered.,Low,Open,4
+TIC000354,CUST000163,ORD000046,2026-05-20 13:58:13,Login Issue,My account is locked after multiple attempts.,High,Resolved,48
+TIC000355,CUST000459,ORD000781,2026-05-27 17:57:43,Wrong Item,The product code does not match my order.,Medium,In Progress,48
+TIC000356,CUST000298,ORD000397,2026-05-06 22:55:24,Payment Issue,My card was charged but order was not created.,Critical,Resolved,8
+TIC000357,CUST000452,ORD000831,2026-05-10 18:47:21,Delivery Issue,My order delivery is delayed.,Medium,Open,72
+TIC000358,CUST000270,ORD000435,2026-05-03 14:53:54,Product Quality Issue,The stitching came loose after first use.,Low,Resolved,12
+TIC000359,CUST000107,ORD000982,2026-05-17 07:13:48,Delivery Issue,Carrier has not updated shipment status.,High,In Progress,12
+TIC000360,CUST000011,ORD001067,2026-05-09 16:44:00,Product Quality Issue,The stitching came loose after first use.,Low,Open,48
+TIC000361,CUST000053,ORD000308,2026-05-21 15:00:08,Payment Issue,My card was charged but order was not created.,Medium,In Progress,72
+TIC000362,CUST000226,ORD000837,2026-05-24 11:36:38,Delivery Issue,My order delivery is delayed.,High,Closed,4
+TIC000363,CUST000020,ORD000714,2026-05-07 09:29:43,Wrong Item,The color and size are different from what I ordered.,Low,Resolved,8
+TIC000364,CUST000218,ORD000908,2026-05-10 21:30:29,Delivery Issue,Carrier has not updated shipment status.,Low,Resolved,
+TIC000365,CUST000482,ORD000654,2026-05-22 06:56:02,Wrong Item,The product code does not match my order.,Critical,Closed,4
+TIC000366,CUST000236,ORD000909,2026-05-15 08:10:22,Refund Issue,Refund is delayed.,Critical,In Progress,
+TIC000367,CUST000466,ORD000260,2026-05-12 22:34:34,Login Issue,My account is locked after multiple attempts.,Low,Open,12
+TIC000368,CUST000131,ORD000668,2026-05-03 04:19:57,Delivery Issue,Carrier has not updated shipment status.,Low,Closed,48
+TIC000369,CUST000136,ORD000298,2026-05-07 12:52:21,Product Quality Issue,The product arrived damaged.,Critical,Open,
+TIC000370,CUST000380,ORD001128,2026-05-30 05:21:39,Payment Issue,Payment failed during checkout.,Medium,Resolved,72
+TIC000371,CUST000227,ORD000816,2026-05-02 13:56:22,Product Quality Issue,The stitching came loose after first use.,Critical,Resolved,24
+TIC000372,CUST000268,ORD000185,2026-05-19 13:03:34,Refund Issue,Refund is delayed.,Critical,In Progress,2
+TIC000373,CUST000347,ORD000912,2026-05-28 19:10:15,Product Quality Issue,The item quality is poor.,Medium,In Progress,4
+TIC000374,CUST000265,ORD001080,2026-05-08 17:44:55,Product Quality Issue,The stitching came loose after first use.,Low,Resolved,2
+TIC000375,CUST000201,ORD000952,2026-05-05 15:29:54,Refund Issue,Refund amount is incorrect.,High,In Progress,2
+TIC000376,CUST000161,ORD000083,2026-05-05 10:35:51,Payment Issue,Payment gateway timed out.,Low,Closed,72
+TIC000377,CUST000393,ORD000975,2026-05-26 23:03:04,Payment Issue,Payment gateway timed out.,Critical,Resolved,72
+TIC000378,CUST000372,ORD000567,2026-05-07 12:56:34,Payment Issue,Payment gateway timed out.,High,Open,
+TIC000379,CUST000208,ORD000634,2026-05-26 07:01:43,Payment Issue,Payment gateway timed out.,Critical,In Progress,8
+TIC000380,CUST000192,ORD000045,2026-05-16 04:18:06,Wrong Item,The color and size are different from what I ordered.,Medium,Resolved,4
+TIC000381,CUST000092,ORD000629,2026-05-21 12:41:49,Refund Issue,Refund is delayed.,Critical,Open,12
+TIC000382,CUST000262,ORD000846,2026-05-18 23:26:44,Product Quality Issue,The item quality is poor.,Critical,Closed,8
+TIC000383,CUST000149,ORD000515,2026-05-15 16:21:26,Delivery Issue,Tracking shows delivered but I did not receive the parcel.,Low,Closed,2
+TIC000384,CUST000172,ORD000780,2026-05-02 08:25:37,Delivery Issue,My order delivery is delayed.,High,Closed,12
+TIC000385,CUST000094,ORD000666,2026-05-11 22:10:43,Delivery Issue,My order delivery is delayed.,Medium,In Progress,8
+TIC000386,CUST000313,ORD000830,2026-05-25 08:58:15,Login Issue,My account is locked after multiple attempts.,Critical,Resolved,2
+TIC000387,CUST000452,ORD000211,2026-05-30 19:04:06,Delivery Issue,Tracking shows delivered but I did not receive the parcel.,Low,In Progress,24
+TIC000388,CUST000218,ORD000711,2026-05-22 21:28:23,Product Quality Issue,The item quality is poor.,Low,In Progress,8
+TIC000389,CUST000485,ORD000064,2026-05-10 19:30:41,Login Issue,Password reset email is not arriving.,High,Resolved,48
+TIC000390,CUST000068,ORD000766,2026-05-08 02:08:30,Login Issue,Password reset email is not arriving.,Low,Closed,4
+TIC000391,CUST000194,ORD000751,2026-05-10 20:32:27,Payment Issue,Payment gateway timed out.,Critical,Closed,12
+TIC000392,CUST000356,ORD000244,2026-05-02 13:37:46,Login Issue,I cannot login to my account.,Medium,Open,8
+TIC000393,CUST000028,ORD000139,2026-05-04 21:44:05,Delivery Issue,Tracking shows delivered but I did not receive the parcel.,Critical,In Progress,
+TIC000394,CUST000001,ORD000849,2026-05-02 05:28:26,Payment Issue,Payment gateway timed out.,Critical,Open,72
+TIC000395,CUST000070,ORD000729,2026-05-21 10:57:12,Login Issue,Password reset email is not arriving.,Low,In Progress,
+TIC000396,CUST000231,ORD000621,2026-05-29 13:27:57,Refund Issue,I returned the item but refund is not processed.,Medium,Resolved,48
+TIC000397,CUST000183,ORD000452,2026-05-15 07:41:50,Product Quality Issue,The stitching came loose after first use.,Low,In Progress,48
+TIC000398,CUST000124,ORD000615,2026-05-03 13:26:27,Refund Issue,Refund amount is incorrect.,Critical,Resolved,48
+TIC000399,CUST000256,ORD000145,2026-05-12 14:17:11,Refund Issue,Refund is delayed.,High,Closed,24
+TIC000400,CUST000221,ORD000205,2026-05-18 22:31:12,Delivery Issue,My order delivery is delayed.,Medium,Resolved,8
+TIC000401,CUST000343,ORD001064,2026-05-15 23:38:41,Wrong Item,The product code does not match my order.,Critical,Resolved,8
+TIC000402,CUST000045,ORD001082,2026-05-05 15:16:30,Product Quality Issue,The item quality is poor.,Critical,Resolved,24
+TIC000403,CUST000280,ORD000346,2026-05-29 18:47:16,Payment Issue,My card was charged but order was not created.,Medium,Open,8
+TIC000404,CUST000454,ORD000149,2026-05-21 01:12:38,Refund Issue,Refund is delayed.,High,Resolved,2
+TIC000405,CUST000202,ORD000848,2026-05-24 12:19:22,Product Quality Issue,The item quality is poor.,Critical,Resolved,8
+TIC000406,CUST000160,ORD000985,2026-05-05 13:18:19,Login Issue,I cannot login to my account.,Critical,In Progress,48
+TIC000407,CUST000487,ORD000242,2026-05-01 06:24:15,Wrong Item,The color and size are different from what I ordered.,Low,In Progress,72
+TIC000408,CUST000147,ORD000035,2026-05-02 04:34:58,Wrong Item,The color and size are different from what I ordered.,Critical,Closed,24
+TIC000409,CUST000191,ORD000118,2026-05-27 06:51:03,Login Issue,I cannot login to my account.,Medium,In Progress,24
+TIC000410,CUST000310,ORD000619,2026-05-09 16:42:50,Product Quality Issue,The stitching came loose after first use.,Medium,Open,12
+TIC000411,CUST000153,ORD000927,2026-05-10 07:03:20,Delivery Issue,Tracking shows delivered but I did not receive the parcel.,Critical,In Progress,12
+TIC000412,CUST000147,ORD000035,2026-05-20 14:53:21,Product Quality Issue,The stitching came loose after first use.,Critical,Closed,
+TIC000413,CUST000113,ORD001186,2026-05-02 10:59:17,Login Issue,Password reset email is not arriving.,Low,Open,72
+TIC000414,CUST000480,ORD000039,2026-05-28 09:14:38,Refund Issue,Refund amount is incorrect.,Critical,Closed,4
+TIC000415,CUST000206,ORD000606,2026-05-19 05:56:39,Login Issue,I cannot login to my account.,Critical,Resolved,48
+TIC000416,CUST000274,ORD000732,2026-05-23 08:29:23,Refund Issue,I returned the item but refund is not processed.,Medium,Open,24
+TIC000417,CUST000069,ORD000286,2026-05-08 15:42:40,Product Quality Issue,The product arrived damaged.,Medium,Resolved,72
+TIC000418,CUST000043,ORD000123,2026-05-27 23:23:25,Payment Issue,Payment gateway timed out.,Critical,Open,48
+TIC000419,CUST000321,ORD000807,2026-05-23 07:03:34,Login Issue,Password reset email is not arriving.,High,In Progress,4
+TIC000420,CUST000293,ORD000817,2026-05-24 01:10:34,Login Issue,My account is locked after multiple attempts.,Low,In Progress,48
+TIC000421,CUST000239,ORD001081,2026-05-13 08:25:08,Payment Issue,Payment gateway timed out.,High,Closed,24
+TIC000422,CUST000157,ORD000355,2026-05-08 23:27:56,Login Issue,My account is locked after multiple attempts.,Critical,In Progress,72
+TIC000423,CUST000046,ORD000517,2026-05-07 05:55:39,Payment Issue,Payment gateway timed out.,High,Open,72
+TIC000424,CUST000231,ORD000621,2026-05-07 09:46:15,Login Issue,My account is locked after multiple attempts.,Critical,Closed,24
+TIC000425,CUST000393,ORD000136,2026-05-05 08:24:23,Payment Issue,My card was charged but order was not created.,High,In Progress,4
+TIC000426,CUST000376,ORD000367,2026-05-01 23:30:39,Delivery Issue,My order delivery is delayed.,Critical,In Progress,24
+TIC000427,CUST000205,ORD000839,2026-05-19 11:38:20,Product Quality Issue,The product arrived damaged.,High,Closed,72
+TIC000428,CUST000069,ORD000546,2026-05-16 21:43:58,Wrong Item,The color and size are different from what I ordered.,Low,Resolved,48
+TIC000429,CUST000097,ORD001135,2026-05-20 03:46:25,Refund Issue,Refund amount is incorrect.,Low,Closed,
+TIC000430,CUST000392,ORD000234,2026-05-24 12:21:13,Product Quality Issue,The product arrived damaged.,Low,In Progress,
+TIC000431,CUST000470,ORD000024,2026-05-11 21:30:49,Product Quality Issue,The item quality is poor.,Critical,Resolved,24
+TIC000432,CUST000124,ORD000886,2026-05-02 21:42:25,Delivery Issue,Carrier has not updated shipment status.,Low,Open,72
+TIC000433,CUST000272,ORD000744,2026-05-14 05:13:48,Delivery Issue,Carrier has not updated shipment status.,Medium,Open,24
+TIC000434,CUST000220,ORD000660,2026-05-09 08:46:17,Refund Issue,Refund is delayed.,Low,Open,8
+TIC000435,CUST000408,ORD000686,2026-05-27 04:03:25,Login Issue,Password reset email is not arriving.,High,Closed,
+TIC000436,CUST000310,ORD000523,2026-05-08 23:20:00,Delivery Issue,My order delivery is delayed.,Critical,In Progress,2
+TIC000437,CUST000130,ORD001144,2026-05-13 03:07:59,Product Quality Issue,The product arrived damaged.,Low,Closed,4
+TIC000438,CUST000440,ORD000574,2026-05-20 16:11:00,Wrong Item,The product code does not match my order.,Critical,Open,24
+TIC000439,CUST000301,ORD000687,2026-05-02 13:59:01,Product Quality Issue,The product arrived damaged.,High,Closed,8
+TIC000440,CUST000357,ORD000375,2026-05-02 01:28:36,Delivery Issue,My order delivery is delayed.,Medium,Resolved,4
+TIC000441,CUST000288,ORD000635,2026-05-13 11:24:29,Login Issue,My account is locked after multiple attempts.,Low,In Progress,8
+TIC000442,CUST000349,ORD000937,2026-05-10 07:57:38,Login Issue,My account is locked after multiple attempts.,Medium,Closed,
+TIC000443,CUST000302,ORD000921,2026-05-03 04:33:49,Product Quality Issue,The stitching came loose after first use.,Low,Closed,4
+TIC000444,CUST000340,ORD001181,2026-05-27 10:56:52,Wrong Item,The product code does not match my order.,Medium,Closed,
+TIC000445,CUST000444,ORD000290,2026-05-09 08:43:17,Delivery Issue,My order delivery is delayed.,Critical,Closed,2
+TIC000446,CUST000447,ORD000313,2026-05-02 22:08:24,Payment Issue,My card was charged but order was not created.,High,Closed,8
+TIC000447,CUST000067,ORD000647,2026-05-05 05:26:39,Login Issue,Password reset email is not arriving.,Critical,Closed,12
+TIC000448,CUST000091,ORD001109,2026-05-28 06:55:43,Product Quality Issue,The product arrived damaged.,Low,Closed,12
+TIC000449,CUST000389,ORD000152,2026-05-01 23:51:52,Payment Issue,My card was charged but order was not created.,Medium,Open,24
+TIC000450,CUST000493,ORD000079,2026-05-12 12:43:56,Product Quality Issue,The stitching came loose after first use.,High,Resolved,72
+TIC000451,CUST000094,ORD000847,2026-05-19 00:51:32,Delivery Issue,Tracking shows delivered but I did not receive the parcel.,High,Open,12
+TIC000452,CUST000158,ORD000103,2026-05-03 10:50:43,Login Issue,Password reset email is not arriving.,High,In Progress,8
+TIC000453,CUST000098,ORD001113,2026-05-21 14:09:14,Product Quality Issue,The stitching came loose after first use.,High,Open,48
+TIC000454,CUST000024,ORD001200,2026-05-25 11:01:42,Payment Issue,My card was charged but order was not created.,Low,Resolved,4
+TIC000455,CUST000237,ORD000117,2026-05-23 21:24:05,Wrong Item,The product code does not match my order.,High,In Progress,24
+TIC000456,CUST000123,ORD000266,2026-05-16 12:29:51,Delivery Issue,My order delivery is delayed.,High,In Progress,2
+TIC000457,CUST000254,ORD001158,2026-05-01 00:16:06,Login Issue,Password reset email is not arriving.,Critical,In Progress,4
+TIC000458,CUST000318,ORD000485,2026-05-25 02:52:48,Delivery Issue,Tracking shows delivered but I did not receive the parcel.,High,In Progress,8
+TIC000459,CUST000289,ORD000697,2026-05-01 02:25:40,Refund Issue,Refund is delayed.,Medium,Closed,4
+TIC000460,CUST000482,ORD001016,2026-05-28 13:50:53,Delivery Issue,Tracking shows delivered but I did not receive the parcel.,Critical,In Progress,24
+TIC000461,CUST000493,ORD001055,2026-05-20 12:25:55,Refund Issue,Refund is delayed.,Critical,Closed,48
+TIC000462,CUST000399,ORD001007,2026-05-30 17:11:52,Payment Issue,Payment gateway timed out.,High,Open,12
+TIC000463,CUST000035,ORD000191,2026-05-24 12:48:20,Wrong Item,The product code does not match my order.,High,Open,
+TIC000464,CUST000092,ORD000971,2026-05-18 11:57:35,Refund Issue,Refund is delayed.,Critical,In Progress,24
+TIC000465,CUST000138,ORD000795,2026-05-23 11:16:11,Delivery Issue,Tracking shows delivered but I did not receive the parcel.,High,Open,4
+TIC000466,CUST000438,ORD001179,2026-05-26 10:36:25,Delivery Issue,My order delivery is delayed.,Medium,Open,12
+TIC000467,CUST000441,ORD001006,2026-05-07 08:45:09,Refund Issue,Refund is delayed.,Medium,Closed,8
+TIC000468,CUST000495,ORD000794,2026-05-11 10:49:00,Login Issue,My account is locked after multiple attempts.,Medium,Open,72
+TIC000469,CUST000108,ORD000007,2026-05-30 13:23:04,Delivery Issue,My order delivery is delayed.,Medium,Resolved,2
+TIC000470,CUST000123,ORD000266,2026-05-26 19:03:15,Refund Issue,Refund is delayed.,High,In Progress,12
+TIC000471,CUST000275,ORD000418,2026-05-18 10:18:43,Delivery Issue,Tracking shows delivered but I did not receive the parcel.,Medium,Open,8
+TIC000472,CUST000152,ORD001121,2026-05-22 02:01:54,Wrong Item,The color and size are different from what I ordered.,Critical,In Progress,8
+TIC000473,CUST000400,ORD000564,2026-05-14 02:41:31,Login Issue,Password reset email is not arriving.,Critical,Resolved,72
+TIC000474,CUST000276,ORD000640,2026-05-01 10:25:28,Product Quality Issue,The product arrived damaged.,Low,Closed,12
+TIC000475,CUST000319,ORD000029,2026-05-09 18:46:03,Product Quality Issue,The product arrived damaged.,Critical,Resolved,24
+TIC000476,CUST000406,ORD000949,2026-05-27 09:24:48,Product Quality Issue,The product arrived damaged.,Low,Resolved,8
+TIC000477,CUST000214,ORD000717,2026-05-13 18:11:05,Delivery Issue,My order delivery is delayed.,Low,In Progress,
+TIC000478,CUST000382,ORD000462,2026-05-26 07:59:48,Wrong Item,The product code does not match my order.,Medium,Open,24
+TIC000479,CUST000133,ORD000788,2026-05-07 16:08:12,Refund Issue,Refund is delayed.,Medium,Closed,48
+TIC000480,CUST000087,ORD000625,2026-05-11 21:45:15,Delivery Issue,Carrier has not updated shipment status.,Medium,Resolved,24
+TIC000481,CUST000069,ORD000546,2026-05-25 01:52:24,Payment Issue,Payment failed during checkout.,Medium,Closed,24
+TIC000482,CUST000178,ORD001018,2026-05-30 16:31:13,Product Quality Issue,The stitching came loose after first use.,Low,Resolved,2
+TIC000483,CUST000364,ORD000833,2026-05-11 16:44:14,Login Issue,I cannot login to my account.,Low,In Progress,48
+TIC000484,CUST000127,ORD000080,2026-05-06 19:43:08,Delivery Issue,Carrier has not updated shipment status.,Low,Resolved,12
+TIC000485,CUST000018,ORD000771,2026-05-28 18:11:58,Refund Issue,I returned the item but refund is not processed.,Critical,Closed,24
+TIC000486,CUST000240,ORD000143,2026-05-08 10:08:23,Product Quality Issue,The product arrived damaged.,Critical,In Progress,12
+TIC000487,CUST000073,ORD000681,2026-05-02 17:55:46,Refund Issue,Refund is delayed.,High,Resolved,4
+TIC000488,CUST000306,ORD000896,2026-05-28 07:43:28,Refund Issue,I returned the item but refund is not processed.,Low,Closed,72
+TIC000489,CUST000119,ORD000707,2026-05-24 13:34:19,Product Quality Issue,The item quality is poor.,Low,In Progress,
+TIC000490,CUST000172,ORD000296,2026-05-03 20:36:35,Wrong Item,I received the wrong item.,Low,Open,72
+TIC000491,CUST000352,ORD000718,2026-05-29 20:19:07,Delivery Issue,My order delivery is delayed.,Medium,Open,8
+TIC000492,CUST000241,ORD000519,2026-05-15 05:44:09,Wrong Item,The color and size are different from what I ordered.,Low,Resolved,
+TIC000493,CUST000363,ORD000814,2026-05-01 00:12:44,Refund Issue,Refund is delayed.,Medium,In Progress,12
+TIC000494,CUST000010,ORD000842,2026-05-23 17:07:16,Wrong Item,The color and size are different from what I ordered.,Low,In Progress,24
+TIC000495,CUST000070,ORD001042,2026-05-22 06:40:09,Payment Issue,My card was charged but order was not created.,High,In Progress,72
+TIC000496,CUST000131,ORD000668,2026-05-19 05:29:11,Wrong Item,The color and size are different from what I ordered.,Low,Open,72
+TIC000497,CUST000203,ORD000534,2026-05-26 07:53:34,Login Issue,My account is locked after multiple attempts.,Critical,Resolved,8
+TIC000498,CUST000253,ORD000590,2026-05-07 06:26:01,Wrong Item,I received the wrong item.,Medium,In Progress,
+TIC000499,CUST000192,ORD000202,2026-05-04 15:52:58,Refund Issue,Refund is delayed.,Low,Resolved,24
+TIC000500,CUST000241,ORD000519,2026-05-26 14:01:40,Delivery Issue,Tracking shows delivered but I did not receive the parcel.,Critical,Closed,24
+TIC_BAD_001,,ORD999999,2026-07-01 10:00:00,,,Unknown,InvalidStatus,-5
