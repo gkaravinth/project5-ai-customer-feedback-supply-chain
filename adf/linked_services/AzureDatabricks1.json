@@ -1,0 +1,15 @@
+{
+  "name": "AzureDatabricks1",
+  "properties": {
+    "type": "AzureDatabricks",
+    "typeProperties": {
+      "domain": "https://adb-7405612097963939.19.azuredatabricks.net",
+      "accessToken": "<REPLACE_WITH_DATABRICKS_TOKEN>",
+      "existingClusterId": "<REPLACE_WITH_CLUSTER_ID>"
+    },
+    "annotations": [
+      "Project5",
+      "GitHub-safe placeholder. Real Databricks token and cluster ID removed."
+    ]
+  }
+}

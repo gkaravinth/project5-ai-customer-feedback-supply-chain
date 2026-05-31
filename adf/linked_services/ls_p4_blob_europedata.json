@@ -1,0 +1,13 @@
+{
+  "name": "ls_p4_blob_europedata",
+  "properties": {
+    "type": "AzureBlobStorage",
+    "typeProperties": {
+      "connectionString": "DefaultEndpointsProtocol=https;AccountName=europedata;AccountKey=<REPLACE_WITH_SECRET>;EndpointSuffix=core.windows.net"
+    },
+    "annotations": [
+      "Project5",
+      "GitHub-safe placeholder. Real storage key removed."
+    ]
+  }
+}
