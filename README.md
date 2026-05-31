@@ -74,14 +74,57 @@ returns.csv
 customer_reviews.csv
 support_tickets.csv
 chat_feedback.json
-Project Status
-Phase	Status
-Phase 1	Project setup and source data generation
-Phase 2	Azure Data Factory ingestion
-Phase 3	Databricks Bronze, Silver, Gold processing
-Phase 4	ADF orchestration and GitHub documentation
-Security Note
 
-No real access keys, tokens, passwords, or secrets should be committed to this repository.
 
-Production secrets should be managed using Azure Key Vault, Databricks Secret Scope, Managed Identity, or Service Principal authentication.
+## Project Status
+
+| Phase | Status |
+|---|---|
+| Phase 1 | Completed - Project setup, source data generation, profiling, GitHub setup, and Azure landing upload |
+| Phase 2 | Completed - Azure Data Factory landing-to-raw ingestion pipeline |
+| Phase 3 | Completed - Databricks Bronze, Silver, and Gold processing |
+| Phase 4 | Completed - ADF orchestration of Databricks notebooks and GitHub-safe documentation |
+
+## Current Completed Architecture
+
+```text
+Generated Source Files
+    ↓
+Azure Storage Landing Zone
+    ↓
+Azure Data Factory
+    - Get Metadata file validation
+    - If Condition control flow
+    - Copy Data activities
+    ↓
+Azure Storage Raw Zone
+    ↓
+ADF triggers Databricks notebooks
+    ↓
+Bronze Delta Tables
+    ↓
+Silver Customer Intelligence Tables
+    ↓
+Gold Business Insight Tables
+    ↓
+Databricks Unity Catalog Validation
+
+
+Completed Gold Tables
+gold_product_feedback_summary
+gold_customer_complaint_summary
+gold_delivery_issue_analysis
+gold_payment_login_issue_analysis
+gold_return_reason_analysis
+gold_product_recommendation_ranking
+gold_customer_sentiment_trend
+gold_supply_chain_customer_risk
+Final Project Outcome
+
+This project successfully demonstrates an end-to-end AI-style customer feedback and supply chain intelligence platform.
+
+The platform processes structured and semi-structured data from orders, payments, shipments, returns, customer reviews, support tickets, and chat feedback.
+
+The Silver layer classifies customer sentiment, complaint categories, payment/login issues, delivery issues, product quality concerns, and supply chain impact.
+
+The Gold layer creates business-ready insight tables that can support reporting, analytics, and future AI/RAG use cases.
